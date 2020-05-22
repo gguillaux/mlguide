@@ -70,6 +70,8 @@ Some of the content, specially related to social media, is focused in the brazil
 * Microsoft
     * [*Azure - Data Analyst Associate*](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate) &nbsp;|&nbsp; [*Azure - Data Engineer Associate*](https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer)
     * [*Azure - Data Scientist Associate*](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist) &nbsp;|&nbsp; [*Azure - AI Engineer Associate*](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer)
+* CQF Institute
+    * [*Certificate in Quantitative Finance*](https://www.cqf.com/)
 
 
 
