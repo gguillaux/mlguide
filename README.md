@@ -8,8 +8,12 @@ Some of the content, specially related to social media, is focused in the brazil
 ---
 ## **Books**
 ### AI & DS
+* *Alternative Data: Capturing the Predictive Power of Big Data for Investment Success*
+    * [amazon](https://www.amazon.com/Alternative-Data-Capturing-Predictive-Investment/dp/1119465001)
 * *Architects of Intelligence: The truth about AI from the people building it*
     * [amazon](https://www.amazon.com/Architects-Intelligence-truth-people-building-ebook/dp/B07H8L8T2J/)
+* *Big Data and Machine Learning in Quantitative Investment*
+    * [amazon](https://www.amazon.com/Machine-Learning-Quantitative-Investment-Finance-ebook/dp/B07LC5RGK4/)
 * *The Book of Why: The New Science of Cause and Effect*
     * [amazon](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X)
 * *The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies*
@@ -36,10 +40,20 @@ Some of the content, specially related to social media, is focused in the brazil
     * [amazon](https://www.amazon.com/Data-Science-Scratch-Principles-Python-ebook/dp/B07QPC8RZX/)
 * *Deep Learning with Python*
     * [amazon](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/)
+* *Deep Learning from Scratch: Building with Python from First Principles*
+    * [amazon](https://www.amazon.com/Deep-Learning-Scratch-Building-Principles-ebook/dp/B07XL53Y4C/)
+* *Derivatives Analytics with Python: Data Analysis, Models, Simulation, Calibration and Hedging*
+    * [amazon](https://www.amazon.com/Derivatives-Analytics-Python-Simulation-Calibration-ebook/dp/B0104CGB1A/)
+* *Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play*
+    * [amazon](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines-ebook/dp/B07TWT9VN6/)
 * *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*
     * [amazon](https://www.amazon.com/gp/product/B07XGF2G87/) &nbsp;|&nbsp; [github](https://github.com/ageron/handson-ml2)
 * *Introduction to Machine Learning with Python: A Guide for Data Scientists*
     * [amazon](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists-ebook/dp/B01M0LNE8C/)
+* *Machine Learning Pocket Reference: Working with Structured Data in Python*
+    * [amazon](https://www.amazon.com/Machine-Learning-Pocket-Reference-Structured-ebook/dp/B07X4WW5B9/)
+* *Practical Deep Learning for Cloud, Mobile, and Edge*
+    * [amazon](https://www.amazon.com/Practical-Deep-Learning-Cloud-Mobile-ebook/dp/B07Z7957PL/)
 * *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython*
     * [amazon](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython-ebook/dp/B075X4LT6K/)
 * *Python for Finance: Mastering Data-Driven Finance*
@@ -122,7 +136,7 @@ Some of the content, specially related to social media, is focused in the brazil
 ---
 
 ## **Web Articles**
-
+* [*HBR - What Great Data Analysts Do — and Why Every Organization Needs Them*](https://hbr.org/2018/12/what-great-data-analysts-do-and-why-every-organization-needs-them?utm_campaign=hbr&utm_medium=social&utm_source=linkedin)
 ---
 
 ## **Web Pages**
@@ -133,7 +147,7 @@ Some of the content, specially related to social media, is focused in the brazil
 ### Projects
 * [*Facebook AI*](https://ai.facebook.com/)
 * [*Ostagram*](https://www.ostagram.me/about?locale=en) &nbsp;|&nbsp; [github](https://github.com/SergeyMorugin/ostagram)
-
+* [*ThoughtWorks - Technology Radar*](https://www.thoughtworks.com/radar)
 
 ---
 
@@ -147,6 +161,7 @@ Some of the content, specially related to social media, is focused in the brazil
 
 ### **Podcasts**
 * [*DataFramed - DataCamp*](https://www.datacamp.com/community/podcast)
+* [*McKinsey on AI*](https://open.spotify.com/show/6PtHDqSnL9UFgj3emMgUuY)
 
 ### **Twitter**
 
