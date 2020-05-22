@@ -3,7 +3,7 @@ I aim with this document to centralize all sort of references available to learn
 
 The goal is to have a centralized hub for reference for YouTube channels, books, articles, etc.
 
-Some of the content, specially related to social media, is focused in the brazilian data science environment but fell free to [reach me](https://gguillaux.github.io/ggx/) out to add references for your location.
+Some of the content, specially related to social media, is focused in the brazilian data science environment but fell free to [reach me](https://gguillaux.github.io/ggx/) out to add references for your location or share any other link or information.
 
 
 ## **Books**
@@ -22,6 +22,15 @@ Some of the content, specially related to social media, is focused in the brazil
 * Google
     * GCP - Professional Data Engineer
         * url - https://cloud.google.com/certification/data-engineer
+* Microsoft
+    * Azure - Data Analyst Associate
+        * url - https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate
+    * Azure - Data Engineer Associate
+        * url - https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer
+    * Azure - Data Scientist Associate
+        * url - https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist
+    * Azure - AI Engineer Associate
+        * url - https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer
 
 ## **Libraries & Frameworks**
 
