@@ -14,6 +14,8 @@ Some of the content, specially related to social media, is focused in the brazil
     * [amazon](https://www.amazon.com/Second-Machine-Age-Prosperity-Technologies/dp/0393350649?ref_=fsclp_pl_dp_1)
 * *Prediction Machines: The Simple Economics of Artificial Intelligence*
     * [amazon](https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence-ebook/dp/B075GXJPFS/)
+* *Superintelligence: Paths, Dangers, Strategies*
+    * [amazon](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111/)
 
 
 ### Go
@@ -120,8 +122,14 @@ Some of the content, specially related to social media, is focused in the brazil
 ---
 
 ## **Web Pages**
+### Authors
+* [*François Chollet*](https://fchollet.com/)
+* [*Peter Norvig*](https://norvig.com/)
+
+### Projects
 * [*Facebook AI*](https://ai.facebook.com/)
 * [*Ostagram*](https://www.ostagram.me/about?locale=en) &nbsp;|&nbsp; [github](https://github.com/SergeyMorugin/ostagram)
+
 
 ---
 
