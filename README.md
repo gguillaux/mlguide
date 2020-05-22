@@ -15,10 +15,23 @@ Some of the content, specially related to social media, is focused in the brazil
 * *Prediction Machines: The Simple Economics of Artificial Intelligence*
     * [amazon](https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence-ebook/dp/B075GXJPFS/)
 
+
+### Go
+* *Machine Learning With Go*
+    * [amazon](https://www.amazon.com/Machine-Learning-Go-predictive-applications/dp/1789619890)
+* *Hands-On Deep Learning with Go*
+    * [amazon](https://www.amazon.com/Hands-Deep-Learning-practical-implementing-ebook/dp/B07VS2PY67/)
+
+
 ### Python
 * *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*
     * [amazon](https://www.amazon.com/gp/product/B07XGF2G87/) &nbsp;|&nbsp; [github](https://github.com/ageron/handson-ml2)
-    
+* *Introduction to Machine Learning with Python: A Guide for Data Scientists*
+    * [amazon](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists-ebook/dp/B01M0LNE8C/)
+* *Data Science from Scratch: First Principles with Python*
+    * [amazon](https://www.amazon.com/Data-Science-Scratch-Principles-Python-ebook/dp/B07QPC8RZX/)
+
+
 ### R
  *  *An Introduction to Statistical Learning with Applications in R*
     * [amazon](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/ref=sr_1_1?dchild=1&keywords=statistical+learning+r&qid=1590155861&sr=8-1) &nbsp;|&nbsp; [page](http://faculty.marshall.usc.edu/gareth-james/ISL/) &nbsp;|&nbsp; [pdf](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) &nbsp;|&nbsp; [videos](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
@@ -26,13 +39,18 @@ Some of the content, specially related to social media, is focused in the brazil
     * [amazon](https://www.amazon.com/Data-Science-Transform-Visualize-Model-ebook/dp/B01NAJAEN5/ref=reads_cwrtbar_2/130-9588645-0194712?_encoding=UTF8&pd_rd_i=B01NAJAEN5&pd_rd_r=27a9034b-57d2-4cf8-9873-537f3b6c26cf&pd_rd_w=oCYaQ&pd_rd_wg=6p6fW&pf_rd_p=f7e50e46-03c7-4eda-9ad4-faa4a79972b4&pf_rd_r=YDKV6ZC7EJZDXTGK5ZD2&psc=1&refRID=YDKV6ZC7EJZDXTGK5ZD2)
 
 
+
 ## **Courses**
 ### Online
 * [*Alura - ML*](https://www.alura.com.br/formacao-machine-learning) &nbsp;|&nbsp; [*Alura - DS*](https://www.alura.com.br/cursos-online-data-science/machine-learning)
 * [*DataCamp*](https://www.datacamp.com/)
+* [*Elements of AI*](https://www.elementsofai.com/)
+* [*Kaggle - Learn*](https://www.kaggle.com/learn/overview)
+* [*LinkedIn Learning - ML*](https://www.linkedin.com/learning/topics/machine-learning)
 * [*Pluralsight - ML*](https://www.pluralsight.com/browse/machine-learning)
 * [*Stanford Online - AI & DS*](https://online.stanford.edu/search-catalog?topics%5B1054%5D=1054&topics%5B1062%5D=1062&keywords=)
 * [*Udacity - AI School*](https://www.udacity.com/school-of-ai)
+
 
 
 ## **Certifications**
@@ -43,26 +61,48 @@ Some of the content, specially related to social media, is focused in the brazil
     * [*Azure - Data Scientist Associate*](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist) &nbsp;|&nbsp; [*Azure - AI Engineer Associate*](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer)
 
 
+
 ## **Libraries & Frameworks**
+### JavaScript
+* [*TensorFlow.js*](https://www.tensorflow.org/js)
+
 ### Julia
+* [*Flux*](https://fluxml.ai/)
+
+
 ### Python
 * [*Keras*](https://keras.io/)
-* TensorFlow
+* [*Mxnet*](https://mxnet.apache.org/)
+* [*Scikit-Learn*](https://scikit-learn.org/stable/)
+* [*TensorFlow*](https://www.tensorflow.org/)
+* [*Theano*](http://deeplearning.net/software/theano/)
+
+
 ### R
 
 
 ## **Papers**
+* [*Scaling to Very Very Large Corpora for Natural Language Disambiguation*](https://www.microsoft.com/en-us/research/publication/scaling-to-very-very-large-corpora-for-natural-language-disambiguation/)
 
 
 ## **Web Articles**
 
+## **Web Pages**
+* [*Ostagram*](https://www.ostagram.me/about?locale=en)
+    * [github](https://github.com/SergeyMorugin/ostagram)
 
 ## **Social Media**
+### **Blogs**
+* [*NVIDIA Developer Blog*](https://devblogs.nvidia.com/)
+
 ### **Meetup**
+
 
 ### **Podcasts**
 
+
 ### **Twitter**
+
 
 ### **YouTube**
 * [*3Blue1Brown*](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
@@ -71,8 +111,6 @@ Some of the content, specially related to social media, is focused in the brazil
 * [O'Reilly](https://www.youtube.com/oreillymedia)
 
 
-
-
-
-
+## **Tools**
+* [*NVIDIA GauGAN*](http://nvidia-research-mingyuliu.com/gaugan/)
 
