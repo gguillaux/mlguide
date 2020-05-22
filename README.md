@@ -84,6 +84,7 @@ Some of the content, specially related to social media, is focused in the brazil
 ### Python
 * [*Keras*](https://keras.io/)
 * [*Mxnet*](https://mxnet.apache.org/)
+* [*PyTorch*](https://pytorch.org/)
 * [*Scikit-Learn*](https://scikit-learn.org/stable/)
 * [*TensorFlow*](https://www.tensorflow.org/)
 * [*Theano*](http://deeplearning.net/software/theano/)
