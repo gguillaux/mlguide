@@ -5,7 +5,7 @@ The goal is to have a centralized hub for reference for YouTube channels, books,
 
 Some of the content, specially related to social media, is focused in the brazilian data science environment but fell free to [reach me](https://gguillaux.github.io/ggx/) out to add references for your location or share any other link or information.
 
-
+---
 ## **Books**
 ### AI & DS
 * *The Book of Why: The New Science of Cause and Effect*
@@ -54,21 +54,24 @@ Some of the content, specially related to social media, is focused in the brazil
 * *Think Stats*
     * [amazon](https://www.amazon.com/Think-Stats-Exploratory-Data-Analysis-ebook/dp/B00OL084UI/) &nbsp;|&nbsp; [page](https://greenteapress.com/wp/think-stats-2e/) &nbsp;|&nbsp; [pdf](http://greenteapress.com/thinkstats2/thinkstats2.pdf) &nbsp;|&nbsp; [github](https://github.com/AllenDowney/ThinkStats2)
 
-
+---
 
 ## **Courses**
 ### Online
 * [*Alura - ML*](https://www.alura.com.br/formacao-machine-learning) &nbsp;|&nbsp; [*Alura - DS*](https://www.alura.com.br/cursos-online-data-science/machine-learning)
 * [*DataCamp*](https://www.datacamp.com/)
 * [*Elements of AI*](https://www.elementsofai.com/)
-* [*Google - Machine Learning Crash Course*](https://developers.google.com/machine-learning/crash-course)
+* Google &nbsp;|&nbsp; [*Machine Learning Crash Course*](https://developers.google.com/machine-learning/crash-course)
 * [*Kaggle - Learn*](https://www.kaggle.com/learn/overview)
 * [*LinkedIn Learning - ML*](https://www.linkedin.com/learning/topics/machine-learning)
+* Microsoft &nbsp;|&nbsp; [*AI Business School*](https://www.microsoft.com/pt-br/ai/ai-business-school) &nbsp;|&nbsp;[AcademIA](https://www.microsoft.com/pt-br/academia) &nbsp;|&nbsp; [AI School](https://aischool.microsoft.com/en-us/home)
 * [*Pluralsight - ML*](https://www.pluralsight.com/browse/machine-learning)
 * [*Stanford Online - AI & DS*](https://online.stanford.edu/search-catalog?topics%5B1054%5D=1054&topics%5B1062%5D=1062&keywords=)
 * [*Udacity - AI School*](https://www.udacity.com/school-of-ai)
 
 
+
+---
 
 ## **Certifications**
 * Google
@@ -79,7 +82,7 @@ Some of the content, specially related to social media, is focused in the brazil
 * CQF Institute
     * [*Certificate in Quantitative Finance*](https://www.cqf.com/)
 
-
+---
 
 ## **Libraries & Frameworks**
 ### JavaScript
@@ -99,19 +102,28 @@ Some of the content, specially related to social media, is focused in the brazil
 
 
 ### R
+* [*Tidyverse*](https://www.tidyverse.org/)
 
+---
 
 ## **Papers**
+### Data Science
+* [*(2009) The Unreasonable Effectiveness of Data*](http://static.googleusercontent.com/media/research.google.com/fr//pubs/archive/35179.pdf)
 
 ### NLP
-* [*Scaling to Very Very Large Corpora for Natural Language Disambiguation*](https://www.microsoft.com/en-us/research/publication/scaling-to-very-very-large-corpora-for-natural-language-disambiguation/)
+* [*(2001) Scaling to Very Very Large Corpora for Natural Language Disambiguation*](https://www.microsoft.com/en-us/research/publication/scaling-to-very-very-large-corpora-for-natural-language-disambiguation/)
 
+---
 
 ## **Web Articles**
+
+---
 
 ## **Web Pages**
 * [*Facebook AI*](https://ai.facebook.com/)
 * [*Ostagram*](https://www.ostagram.me/about?locale=en) &nbsp;|&nbsp; [github](https://github.com/SergeyMorugin/ostagram)
+
+---
 
 ## **Social Media**
 ### **Blogs**
