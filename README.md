@@ -48,6 +48,12 @@ Some of the content, specially related to social media, is focused in the brazil
 * *R for Data Science*
     * [amazon](https://www.amazon.com/Data-Science-Transform-Visualize-Model-ebook/dp/B01NAJAEN5/ref=reads_cwrtbar_2/130-9588645-0194712?_encoding=UTF8&pd_rd_i=B01NAJAEN5&pd_rd_r=27a9034b-57d2-4cf8-9873-537f3b6c26cf&pd_rd_w=oCYaQ&pd_rd_wg=6p6fW&pf_rd_p=f7e50e46-03c7-4eda-9ad4-faa4a79972b4&pf_rd_r=YDKV6ZC7EJZDXTGK5ZD2&psc=1&refRID=YDKV6ZC7EJZDXTGK5ZD2)
 
+### Statistics
+* *La Politique des Grands Nombres: Histoire de la Raison Statistique*
+    * [amazon](https://www.amazon.com/politique-grands-nombres-Histoire-statistique/dp/2707165042)
+* *Think Stats*
+    * [amazon](https://www.amazon.com/Think-Stats-Exploratory-Data-Analysis-ebook/dp/B00OL084UI/) &nbsp;|&nbsp; [page](https://greenteapress.com/wp/think-stats-2e/) &nbsp;|&nbsp; [pdf](http://greenteapress.com/thinkstats2/thinkstats2.pdf) &nbsp;|&nbsp; [github](https://github.com/AllenDowney/ThinkStats2)
+
 
 
 ## **Courses**
