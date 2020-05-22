@@ -8,10 +8,14 @@ Some of the content, specially related to social media, is focused in the brazil
 ---
 ## **Books**
 ### AI & DS
+* *Architects of Intelligence: The truth about AI from the people building it*
+    * [amazon](https://www.amazon.com/Architects-Intelligence-truth-people-building-ebook/dp/B07H8L8T2J/)
 * *The Book of Why: The New Science of Cause and Effect*
     * [amazon](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X)
 * *The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies*
     * [amazon](https://www.amazon.com/Second-Machine-Age-Prosperity-Technologies/dp/0393350649?ref_=fsclp_pl_dp_1)
+* *How to Create a Mind: The Secret of Human Thought Revealed*
+    * [amazon](https://www.amazon.com/How-Create-Mind-Thought-Revealed-ebook/dp/B007V65UUG/)
 * *Prediction Machines: The Simple Economics of Artificial Intelligence*
     * [amazon](https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence-ebook/dp/B075GXJPFS/)
 * *Superintelligence: Paths, Dangers, Strategies*
