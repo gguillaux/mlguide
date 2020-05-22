@@ -24,17 +24,27 @@ Some of the content, specially related to social media, is focused in the brazil
 
 
 ### Python
+* *Advances in Financial Machine Learning*
+    * [amazon](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos-ebook/dp/B079KLDW21/)
+* *Data Science from Scratch: First Principles with Python*
+    * [amazon](https://www.amazon.com/Data-Science-Scratch-Principles-Python-ebook/dp/B07QPC8RZX/)
+* *Deep Learning with Python*
+    * [amazon](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/)
 * *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*
     * [amazon](https://www.amazon.com/gp/product/B07XGF2G87/) &nbsp;|&nbsp; [github](https://github.com/ageron/handson-ml2)
 * *Introduction to Machine Learning with Python: A Guide for Data Scientists*
     * [amazon](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists-ebook/dp/B01M0LNE8C/)
-* *Data Science from Scratch: First Principles with Python*
-    * [amazon](https://www.amazon.com/Data-Science-Scratch-Principles-Python-ebook/dp/B07QPC8RZX/)
+* *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython*
+    * [amazon](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython-ebook/dp/B075X4LT6K/)
+* *Python for Finance: Mastering Data-Driven Finance*
+    * [amazon](https://www.amazon.com/Python-Finance-Mastering-Data-Driven-ebook/dp/B07L8NMW2P/)
 
 
 ### R
  *  *An Introduction to Statistical Learning with Applications in R*
     * [amazon](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/ref=sr_1_1?dchild=1&keywords=statistical+learning+r&qid=1590155861&sr=8-1) &nbsp;|&nbsp; [page](http://faculty.marshall.usc.edu/gareth-james/ISL/) &nbsp;|&nbsp; [pdf](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) &nbsp;|&nbsp; [videos](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
+* *Deep Learning with R*
+    * [amazon](https://www.amazon.com/Deep-Learning-R-Francois-Chollet/dp/161729554X/)
 * *R for Data Science*
     * [amazon](https://www.amazon.com/Data-Science-Transform-Visualize-Model-ebook/dp/B01NAJAEN5/ref=reads_cwrtbar_2/130-9588645-0194712?_encoding=UTF8&pd_rd_i=B01NAJAEN5&pd_rd_r=27a9034b-57d2-4cf8-9873-537f3b6c26cf&pd_rd_w=oCYaQ&pd_rd_wg=6p6fW&pf_rd_p=f7e50e46-03c7-4eda-9ad4-faa4a79972b4&pf_rd_r=YDKV6ZC7EJZDXTGK5ZD2&psc=1&refRID=YDKV6ZC7EJZDXTGK5ZD2)
 
@@ -45,6 +55,7 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Alura - ML*](https://www.alura.com.br/formacao-machine-learning) &nbsp;|&nbsp; [*Alura - DS*](https://www.alura.com.br/cursos-online-data-science/machine-learning)
 * [*DataCamp*](https://www.datacamp.com/)
 * [*Elements of AI*](https://www.elementsofai.com/)
+* [*Google - Machine Learning Crash Course*](https://developers.google.com/machine-learning/crash-course)
 * [*Kaggle - Learn*](https://www.kaggle.com/learn/overview)
 * [*LinkedIn Learning - ML*](https://www.linkedin.com/learning/topics/machine-learning)
 * [*Pluralsight - ML*](https://www.pluralsight.com/browse/machine-learning)
@@ -82,24 +93,27 @@ Some of the content, specially related to social media, is focused in the brazil
 
 
 ## **Papers**
+
+### NLP
 * [*Scaling to Very Very Large Corpora for Natural Language Disambiguation*](https://www.microsoft.com/en-us/research/publication/scaling-to-very-very-large-corpora-for-natural-language-disambiguation/)
 
 
 ## **Web Articles**
 
 ## **Web Pages**
-* [*Ostagram*](https://www.ostagram.me/about?locale=en)
-    * [github](https://github.com/SergeyMorugin/ostagram)
+* [*Facebook AI*](https://ai.facebook.com/)
+* [*Ostagram*](https://www.ostagram.me/about?locale=en) &nbsp;|&nbsp; [github](https://github.com/SergeyMorugin/ostagram)
 
 ## **Social Media**
 ### **Blogs**
 * [*NVIDIA Developer Blog*](https://devblogs.nvidia.com/)
 
 ### **Meetup**
-
+* [*AI Brasil*](https://www.meetup.com/pt-BR/ai-brasil/)
+* [*Nubank - Data Science & Machine Learning*](https://www.meetup.com/pt-BR/machine-learning-big-data-engenharia/)
 
 ### **Podcasts**
-
+* [*DataFramed - DataCamp*](https://www.datacamp.com/community/podcast)
 
 ### **Twitter**
 
@@ -107,6 +121,7 @@ Some of the content, specially related to social media, is focused in the brazil
 ### **YouTube**
 * [*3Blue1Brown*](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * [*Artificial Intelligence Podcast*](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
+* [*Estatidados*](https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw)
 * [*Lex Fridman*](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
 * [O'Reilly](https://www.youtube.com/oreillymedia)
 
