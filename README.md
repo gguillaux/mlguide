@@ -8,12 +8,18 @@ Some of the content, specially related to social media, is focused in the brazil
 ---
 ## **Books**
 ### AI & DS
+* *Artificial Intelligence: A Modern Approach*
+    * [amazon](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997/)
 * *Alternative Data: Capturing the Predictive Power of Big Data for Investment Success*
     * [amazon](https://www.amazon.com/Alternative-Data-Capturing-Predictive-Investment/dp/1119465001)
 * *Architects of Intelligence: The truth about AI from the people building it*
     * [amazon](https://www.amazon.com/Architects-Intelligence-truth-people-building-ebook/dp/B07H8L8T2J/)
 * *Big Data and Machine Learning in Quantitative Investment*
     * [amazon](https://www.amazon.com/Machine-Learning-Quantitative-Investment-Finance-ebook/dp/B07LC5RGK4/)
+* *Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking*
+    * [amazon](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking-ebook/dp/B00E6EQ3X4/)
+* *Inteligência Artificial. Uma Abordagem de Aprendizado de Máquina*
+    * [amazon](https://www.amazon.com.br/Inteligência-Artificial-Abordagem-Aprendizado-Máquina/dp/8521618808/)
 * *The Book of Why: The New Science of Cause and Effect*
     * [amazon](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X)
 * *The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies*
@@ -24,6 +30,8 @@ Some of the content, specially related to social media, is focused in the brazil
     * [amazon](https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence-ebook/dp/B075GXJPFS/)
 * *Superintelligence: Paths, Dangers, Strategies*
     * [amazon](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111/)
+* *Understanding Machine Learning: From Theory to Algorithms*
+    * [amazon](https://www.amazon.com.br/Understanding-Machine-Learning-Theory-Algorithms/dp/1107057132/) &nbsp;|&nbsp; [pdf](UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 
 
 ### Go
@@ -36,6 +44,8 @@ Some of the content, specially related to social media, is focused in the brazil
 ### Python
 * *Advances in Financial Machine Learning*
     * [amazon](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos-ebook/dp/B079KLDW21/)
+* *Building Machine Learning Powered Applications: Going from Idea to Product*
+    * [amazon](https://www.amazon.com/Building-Machine-Learning-Powered-Applications-dp-149204511X/dp/149204511X/)
 * *Data Science from Scratch: First Principles with Python*
     * [amazon](https://www.amazon.com/Data-Science-Scratch-Principles-Python-ebook/dp/B07QPC8RZX/)
 * *Deep Learning with Python*
@@ -50,10 +60,16 @@ Some of the content, specially related to social media, is focused in the brazil
     * [amazon](https://www.amazon.com/gp/product/B07XGF2G87/) &nbsp;|&nbsp; [github](https://github.com/ageron/handson-ml2)
 * *Introduction to Machine Learning with Python: A Guide for Data Scientists*
     * [amazon](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists-ebook/dp/B01M0LNE8C/)
+* *Machine Learning for Asset Managers*
+    * [amazon](https://www.amazon.com/Machine-Learning-Managers-Elements-Quantitative-ebook/dp/B08461XP7R/)
 * *Machine Learning Pocket Reference: Working with Structured Data in Python*
     * [amazon](https://www.amazon.com/Machine-Learning-Pocket-Reference-Structured-ebook/dp/B07X4WW5B9/)
 * *Practical Deep Learning for Cloud, Mobile, and Edge*
     * [amazon](https://www.amazon.com/Practical-Deep-Learning-Cloud-Mobile-ebook/dp/B07Z7957PL/)
+* *Practical Time Series Analysis: Prediction with Statistics and Machine Learning*
+    * [amazon](https://www.amazon.com/Practical-Time-Analysis-Prediction-Statistics-ebook/dp/B07Y5WSCV2/)
+* *Programming PyTorch for Deep Learning: Creating and Deploying Deep Learning Applications*
+    * [amazon](https://www.amazon.com/Programming-PyTorch-Deep-Learning-Applications-ebook/dp/B07Y6181J5/)
 * *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython*
     * [amazon](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython-ebook/dp/B075X4LT6K/)
 * *Python for Finance: Mastering Data-Driven Finance*
@@ -141,6 +157,8 @@ Some of the content, specially related to social media, is focused in the brazil
 
 ## **Web Pages**
 ### Authors
+* [*Cappra*](https://cappra.com.br/)
+* [*Nate Silver - 538*](https://fivethirtyeight.com/)
 * [*François Chollet*](https://fchollet.com/)
 * [*Peter Norvig*](https://norvig.com/)
 
