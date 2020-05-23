@@ -163,6 +163,8 @@ Some of the content, specially related to social media, is focused in the brazil
 ### Data Science
 * [*(2009) The Unreasonable Effectiveness of Data*](http://static.googleusercontent.com/media/research.google.com/fr//pubs/archive/35179.pdf)
 
+### Finance
+* [*(2019) AI Pioneers in Investment Management*](https://www.cfainstitute.org/-/media/documents/survey/AI-Pioneers-in-Investment-Management.ashx)
 ### NLP
 * [*(2001) Scaling to Very Very Large Corpora for Natural Language Disambiguation*](https://www.microsoft.com/en-us/research/publication/scaling-to-very-very-large-corpora-for-natural-language-disambiguation/)
 
