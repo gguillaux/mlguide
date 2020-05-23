@@ -193,6 +193,7 @@ Some of the content, specially related to social media, is focused in the brazil
 ### **Meetup**
 * [*AI Brasil*](https://www.meetup.com/pt-BR/ai-brasil/)
 * [*Nubank - Data Science & Machine Learning*](https://www.meetup.com/pt-BR/machine-learning-big-data-engenharia/)
+* [*TensorFlow São Paulo*](https://www.meetup.com/pt-BR/TensorFlowSP/)
 
 ### **Podcasts**
 * [*DataFramed - DataCamp*](https://www.datacamp.com/community/podcast)
@@ -204,6 +205,8 @@ Some of the content, specially related to social media, is focused in the brazil
 ### **YouTube**
 * [*3Blue1Brown*](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * [*Artificial Intelligence Podcast*](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
+* [*Diogo Cortiz*](https://www.youtube.com/channel/UC5MXrSUoLW0JRd2j7q1ef7Q)
+* [*Escola Livre de Inteligência Artificial*](https://www.youtube.com/channel/UCLsS3dxDbu5uWcCJQxNdt9Q)
 * [*Estatidados*](https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw)
 * [*Lex Fridman*](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
 * [O'Reilly](https://www.youtube.com/oreillymedia)
