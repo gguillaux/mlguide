@@ -14,12 +14,16 @@ Some of the content, specially related to social media, is focused in the brazil
     * [amazon](https://www.amazon.com/Alternative-Data-Capturing-Predictive-Investment/dp/1119465001)
 * *Architects of Intelligence: The truth about AI from the people building it*
     * [amazon](https://www.amazon.com/Architects-Intelligence-truth-people-building-ebook/dp/B07H8L8T2J/)
+* *Big Data: A Revolution that will Transform How We Live, Work and Think*
+    * [amazon](https://www.amazon.com/Big-Data-Revolution-Transform-Think/dp/1848547900/)
 * *Big Data and Machine Learning in Quantitative Investment*
     * [amazon](https://www.amazon.com/Machine-Learning-Quantitative-Investment-Finance-ebook/dp/B07LC5RGK4/)
 * *Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking*
     * [amazon](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking-ebook/dp/B00E6EQ3X4/)
 * *Inteligência Artificial. Uma Abordagem de Aprendizado de Máquina*
     * [amazon](https://www.amazon.com.br/Inteligência-Artificial-Abordagem-Aprendizado-Máquina/dp/8521618808/)
+* *The Art of Data Science*
+    * [amazon](https://www.amazon.com/Art-Data-Science-Roger-Peng/dp/1365061469/)
 * *The Book of Why: The New Science of Cause and Effect*
     * [amazon](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X)
 * *The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies*
@@ -30,9 +34,20 @@ Some of the content, specially related to social media, is focused in the brazil
     * [amazon](https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence-ebook/dp/B075GXJPFS/)
 * *Superintelligence: Paths, Dangers, Strategies*
     * [amazon](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111/)
+* *The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists*
+    * [amazon](https://www.amazon.com/Data-Science-Handbook-Insights-Scientists/dp/0692434879/)
 * *Understanding Machine Learning: From Theory to Algorithms*
     * [amazon](https://www.amazon.com.br/Understanding-Machine-Learning-Theory-Algorithms/dp/1107057132/) &nbsp;|&nbsp; [pdf](UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+* *Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*
+    * [amazon](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality-ebook/dp/B019B6VCLO/)
 
+### Data Engineering
+* *Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems*
+    * [amazon](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/)
+* *Graph Algorithms: Practical Examples in Apache Spark and Neo4j*
+    * [amazon](https://www.amazon.com/Graph-Algorithms-Practical-Examples-Apache-ebook/dp/B07S1Z51TB/) &nbsp;|&nbsp;  [page](https://neo4j.com/graph-algorithms-book/)
+* *Graph Databases: New Opportunities for Connected Data*
+    * [amazon](https://www.amazon.com/Graph-Databases-Opportunities-Connected-Data-ebook/dp/B00ZGRS4VY/) &nbsp;|&nbsp; [page](https://neo4j.com/graph-databases-book/)
 
 ### Go
 * *Machine Learning With Go*
@@ -87,6 +102,8 @@ Some of the content, specially related to social media, is focused in the brazil
 ### Statistics
 * *La Politique des Grands Nombres: Histoire de la Raison Statistique*
     * [amazon](https://www.amazon.com/politique-grands-nombres-Histoire-statistique/dp/2707165042)
+* *Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python*
+    * [amazon](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential-ebook/dp/B08712TT3F/)
 * *Think Stats*
     * [amazon](https://www.amazon.com/Think-Stats-Exploratory-Data-Analysis-ebook/dp/B00OL084UI/) &nbsp;|&nbsp; [page](https://greenteapress.com/wp/think-stats-2e/) &nbsp;|&nbsp; [pdf](http://greenteapress.com/thinkstats2/thinkstats2.pdf) &nbsp;|&nbsp; [github](https://github.com/AllenDowney/ThinkStats2)
 
