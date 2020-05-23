@@ -190,7 +190,13 @@ Some of the content, specially related to social media, is focused in the brazil
 
 ## **Social Media**
 ### **Blogs**
-* [*NVIDIA Developer Blog*](https://devblogs.nvidia.com/)
+* [*Berkeley AI Research Blog*](https://bair.berkeley.edu/blog/)
+* [*Deepmind Blog*](https://deepmind.com/blog)
+* [*Facebook - AI Blog*](https://ai.facebook.com/blog/)
+* [*Google - AI Blog*](https://ai.googleblog.com/)
+* [*IBM Research*](https://www.ibm.com/blogs/research/)  &nbsp;|&nbsp; [*IBM Watson*](https://www.ibm.com/blogs/watson/)
+* [*NVIDIA - Developer Blog*](https://devblogs.nvidia.com/)
+* [*Open AI Blog*](https://openai.com/blog/)
 
 ### **Meetup**
 * [*AI Brasil*](https://www.meetup.com/pt-BR/ai-brasil/)
