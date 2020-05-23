@@ -184,6 +184,8 @@ Some of the content, specially related to social media, is focused in the brazil
 ### Projects
 * [*Facebook AI*](https://ai.facebook.com/)
 * [*Ostagram*](https://www.ostagram.me/about?locale=en) &nbsp;|&nbsp; [github](https://github.com/SergeyMorugin/ostagram)
+* [*Oxford - Future of Humanity Institute*](https://www.fhi.ox.ac.uk/)
+* [*Quanta Magazine - Artificial Intelligence*](https://www.quantamagazine.org/tag/artificial-intelligence/)
 * [*ThoughtWorks - Technology Radar*](https://www.thoughtworks.com/radar)
 
 ---
@@ -206,6 +208,7 @@ Some of the content, specially related to social media, is focused in the brazil
 ### **Podcasts**
 * [*DataFramed - DataCamp*](https://www.datacamp.com/community/podcast)
 * [*McKinsey on AI*](https://open.spotify.com/show/6PtHDqSnL9UFgj3emMgUuY)
+* [*Quanta Magazine*](https://www.quantamagazine.org/tag/podcast)
 
 ### **Twitter**
 
