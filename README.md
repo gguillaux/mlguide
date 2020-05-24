@@ -173,6 +173,7 @@ Some of the content, specially related to social media, is focused in the brazil
 ---
 
 ## **Web Articles**
+* [*Four Ways Data Science Goes Wrong and How Test-Driven Data Analysis Can Help*](https://www.predictiveanalyticsworld.com/machinelearningtimes/four-ways-data-science-goes-wrong-and-how-test-driven-data-analysis-can-help/6947/)
 * [*HBR - What Great Data Analysts Do — and Why Every Organization Needs Them*](https://hbr.org/2018/12/what-great-data-analysts-do-and-why-every-organization-needs-them?utm_campaign=hbr&utm_medium=social&utm_source=linkedin)
 ---
 
@@ -230,7 +231,8 @@ Some of the content, specially related to social media, is focused in the brazil
 
 
 ## **Tools**
-* [*Amazon SageMaker*](https://aws.amazon.com/en/sagemaker/)
+* [*AWS SageMaker*](https://aws.amazon.com/en/sagemaker/)
+* [*AWS DeepComposer*](https://aws.amazon.com/deepcomposer/)
 * [*Azure ML Studio*](https://studio.azureml.net/)
 * [*Google Colab*](colab.research.google.com/)
 * [*NVIDIA GauGAN*](http://nvidia-research-mingyuliu.com/gaugan/)
