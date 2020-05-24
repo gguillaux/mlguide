@@ -55,10 +55,18 @@ Some of the content, specially related to social media, is focused in the brazil
 * *Hands-On Deep Learning with Go*
     * [amazon](https://www.amazon.com/Hands-Deep-Learning-practical-implementing-ebook/dp/B07VS2PY67/)
 
-
-### Python
+### ML & Finance
 * *Advances in Financial Machine Learning*
     * [amazon](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos-ebook/dp/B079KLDW21/)
+* *Derivatives Analytics with Python: Data Analysis, Models, Simulation, Calibration and Hedging*
+    * [amazon](https://www.amazon.com/Derivatives-Analytics-Python-Simulation-Calibration-ebook/dp/B0104CGB1A/)
+* *Machine Learning for Asset Managers*
+    * [amazon](https://www.amazon.com/Machine-Learning-Managers-Elements-Quantitative-ebook/dp/B08461XP7R/)
+* *Python for Finance: Mastering Data-Driven Finance*
+    * [amazon](https://www.amazon.com/Python-Finance-Mastering-Data-Driven-ebook/dp/B07L8NMW2P/)
+
+
+### Python
 * *Building Machine Learning Powered Applications: Going from Idea to Product*
     * [amazon](https://www.amazon.com/Building-Machine-Learning-Powered-Applications-dp-149204511X/dp/149204511X/)
 * *Data Science from Scratch: First Principles with Python*
@@ -67,16 +75,12 @@ Some of the content, specially related to social media, is focused in the brazil
     * [amazon](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/)
 * *Deep Learning from Scratch: Building with Python from First Principles*
     * [amazon](https://www.amazon.com/Deep-Learning-Scratch-Building-Principles-ebook/dp/B07XL53Y4C/)
-* *Derivatives Analytics with Python: Data Analysis, Models, Simulation, Calibration and Hedging*
-    * [amazon](https://www.amazon.com/Derivatives-Analytics-Python-Simulation-Calibration-ebook/dp/B0104CGB1A/)
 * *Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play*
     * [amazon](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines-ebook/dp/B07TWT9VN6/)
 * *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*
     * [amazon](https://www.amazon.com/gp/product/B07XGF2G87/) &nbsp;|&nbsp; [github](https://github.com/ageron/handson-ml2)
 * *Introduction to Machine Learning with Python: A Guide for Data Scientists*
     * [amazon](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists-ebook/dp/B01M0LNE8C/)
-* *Machine Learning for Asset Managers*
-    * [amazon](https://www.amazon.com/Machine-Learning-Managers-Elements-Quantitative-ebook/dp/B08461XP7R/)
 * *Machine Learning Pocket Reference: Working with Structured Data in Python*
     * [amazon](https://www.amazon.com/Machine-Learning-Pocket-Reference-Structured-ebook/dp/B07X4WW5B9/)
 * *Practical Deep Learning for Cloud, Mobile, and Edge*
@@ -87,8 +91,6 @@ Some of the content, specially related to social media, is focused in the brazil
     * [amazon](https://www.amazon.com/Programming-PyTorch-Deep-Learning-Applications-ebook/dp/B07Y6181J5/)
 * *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython*
     * [amazon](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython-ebook/dp/B075X4LT6K/)
-* *Python for Finance: Mastering Data-Driven Finance*
-    * [amazon](https://www.amazon.com/Python-Finance-Mastering-Data-Driven-ebook/dp/B07L8NMW2P/)
 
 
 ### R
