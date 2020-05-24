@@ -225,6 +225,7 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Estatidados*](https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw)
 * [*Lex Fridman*](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
 * [O'Reilly](https://www.youtube.com/oreillymedia)
+* [*PyData*](https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w)
 
 
 ## **Tools**
