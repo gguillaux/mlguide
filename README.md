@@ -185,6 +185,7 @@ Some of the content, specially related to social media, is focused in the brazil
 
 ### Projects
 * [*Facebook AI*](https://ai.facebook.com/)
+* [*Machine Learning Times*](https://www.predictiveanalyticsworld.com/machinelearningtimes/)
 * [*Ostagram*](https://www.ostagram.me/about?locale=en) &nbsp;|&nbsp; [github](https://github.com/SergeyMorugin/ostagram)
 * [*Oxford - Future of Humanity Institute*](https://www.fhi.ox.ac.uk/)
 * [*Quanta Magazine - Artificial Intelligence*](https://www.quantamagazine.org/tag/artificial-intelligence/)
