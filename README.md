@@ -194,6 +194,7 @@ Some of the content, specially related to social media, is focused in the brazil
 
 ## **Social Media**
 ### **Blogs**
+* [*Algorithmia*](https://algorithmia.com/blog)
 * [*Berkeley AI Research Blog*](https://bair.berkeley.edu/blog/)
 * [*Deepmind Blog*](https://deepmind.com/blog)
 * [*Facebook - AI Blog*](https://ai.facebook.com/blog/)
@@ -213,7 +214,8 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Quanta Magazine*](https://www.quantamagazine.org/tag/podcast)
 
 ### **Twitter**
-
+* [*Boston Dynamics*](https://twitter.com/bostondynamics)
+* [*Open AI*](https://twitter.com/OpenAI)
 
 ### **YouTube**
 * [*3Blue1Brown*](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
