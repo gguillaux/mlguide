@@ -224,5 +224,6 @@ Some of the content, specially related to social media, is focused in the brazil
 
 
 ## **Tools**
+* [Google Colab](colab.research.google.com/)
+* [Azure ML Studio](https://studio.azureml.net/)
 * [*NVIDIA GauGAN*](http://nvidia-research-mingyuliu.com/gaugan/)
-
