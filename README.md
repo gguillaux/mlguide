@@ -182,6 +182,7 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Cappra*](https://cappra.com.br/)
 * [*Nate Silver - 538*](https://fivethirtyeight.com/)
 * [*François Chollet*](https://fchollet.com/)
+* [* Ilya Sutskever *](http://www.cs.utoronto.ca/~ilya/)
 * [*Peter Norvig*](https://norvig.com/)
 
 ### Projects
@@ -216,7 +217,10 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Quanta Magazine*](https://www.quantamagazine.org/tag/podcast)
 
 ### **Twitter**
+* [*Andrew Ng*](https://twitter.com/AndrewYNg)
 * [*Boston Dynamics*](https://twitter.com/bostondynamics)
+* [*Ilya Sutskever*](https://twitter.com/ilyasut)
+* [*Lex Fridman*](https://twitter.com/lexfridman)
 * [*Open AI*](https://twitter.com/OpenAI)
 
 ### **YouTube**
