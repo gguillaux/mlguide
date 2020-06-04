@@ -203,6 +203,7 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Facebook - AI Blog*](https://ai.facebook.com/blog/)
 * [*Google - AI Blog*](https://ai.googleblog.com/)
 * [*IBM Research*](https://www.ibm.com/blogs/research/)  &nbsp;|&nbsp; [*IBM Watson*](https://www.ibm.com/blogs/watson/)
+* [*Man AHL Technology Group*](https://www.ahl.com/technology#_latest-technology-articles)
 * [*NVIDIA - Developer Blog*](https://devblogs.nvidia.com/)
 * [*Open AI Blog*](https://openai.com/blog/)
 
