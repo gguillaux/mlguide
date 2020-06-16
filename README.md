@@ -174,12 +174,22 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Flux*](https://fluxml.ai/)
 
 ### Python
+* [*BERT*](https://github.com/google-research/bert)
+* [*BERT as Service*](https://github.com/hanxiao/bert-as-service)
+* [*Detectron*](https://github.com/facebookresearch/Detectron)
 * [*Keras*](https://keras.io/)
+* [*Librosa*](https://github.com/librosa/librosa)
+* [*Ludwig*](https://github.com/uber/ludwig)
+* [*Magenta*](https://magenta.tensorflow.org/)
 * [*Mxnet*](https://mxnet.apache.org/)
+* [*OpenCV*](https://opencv.org/)
 * [*Orange*](https://orange.biolab.si/)
+* [*Polynote*](https://polynote.org/)
 * [*PyTorch*](https://pytorch.org/)
+* [*SimpleCV*](http://simplecv.org/)
 * [*Scikit-Learn*](https://scikit-learn.org/stable/)
 * [*TensorFlow*](https://www.tensorflow.org/)
+* [*Tesseract OCR*](https://github.com/tesseract-ocr/tesseract)
 * [*Theano*](http://deeplearning.net/software/theano/)
 
 
@@ -204,6 +214,7 @@ Some of the content, specially related to social media, is focused in the brazil
 
 ### NLP
 * [*(2001) Scaling to Very Very Large Corpora for Natural Language Disambiguation*](https://www.microsoft.com/en-us/research/publication/scaling-to-very-very-large-corpora-for-natural-language-disambiguation/)
+* [*(2015) librosa: Audio and Music Signal Analysis in Python*](http://conference.scipy.org/proceedings/scipy2015/pdfs/brian_mcfee.pdf)
 
 ---
 
