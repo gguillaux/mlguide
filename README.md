@@ -114,6 +114,7 @@ Some of the content, specially related to social media, is focused in the brazil
 ## **Courses**
 ### Online
 * [*Alura - ML*](https://www.alura.com.br/formacao-machine-learning) &nbsp;|&nbsp; [*Alura - DS*](https://www.alura.com.br/cursos-online-data-science/machine-learning)
+* [*AWS - ML Trainings*](https://www.aws.training/LearningLibrary?filters=language%3A1&filters=classification%3A58&filters=classification%3A30&search=&tab=view_all)
 * [*DataCamp*](https://www.datacamp.com/)
 * [*Elements of AI*](https://www.elementsofai.com/)
 * Google &nbsp;|&nbsp; [*Machine Learning Crash Course*](https://developers.google.com/machine-learning/crash-course)
@@ -125,8 +126,14 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Udacity - AI School*](https://www.udacity.com/school-of-ai)
 
 #### Coursera
+* [*Deep Learning Specialization*](https://www.coursera.org/specializations/deep-learning)
+* [*IBM - Machine Learning with Python*](https://www.coursera.org/learn/machine-learning-with-python)
 * [*Machine Learning with TensorFlow on Google Cloud Platform Specialization*](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+* [*Mathematics for Machine Learning Specialization*](https://www.coursera.org/specializations/mathematics-machine-learning)
 * [*Stanford - Machine Learning*](https://www.coursera.org/learn/machine-learning)
+
+#### edX
+* [*Harvard - Data Science: Machine Learning*](https://www.edx.org/course/data-science-machine-learning)
 
 
 ---
@@ -177,10 +184,11 @@ Some of the content, specially related to social media, is focused in the brazil
 
 
 ### R
+* [*Caret*](http://topepo.github.io/caret/index.html)
+* [*e1071*](https://cran.r-project.org/web/packages/e1071/index.html)
+* [*randomForest*](https://cran.r-project.org/web/packages/randomForest/index.html)
 * [*Tidyverse*](https://www.tidyverse.org/)
 
-### Scala
-* [*Apache Mahout*](https://mahout.apache.org/)
 
 ---
 
