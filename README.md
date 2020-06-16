@@ -140,12 +140,17 @@ Some of the content, specially related to social media, is focused in the brazil
 ---
 
 ## **Libraries & Frameworks & Tools**
+### .NET
+* [*Accord*](http://accord-framework.net/)
+
+### Java
+* [*DeepLearning4j*](https://deeplearning4j.org/)
+
 ### JavaScript
 * [*TensorFlow.js*](https://www.tensorflow.org/js)
 
 ### Julia
 * [*Flux*](https://fluxml.ai/)
-
 
 ### Python
 * [*Keras*](https://keras.io/)
@@ -271,4 +276,6 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Google Colab*](colab.research.google.com/)
 * [*KNIME*](https://www.knime.com/)
 * [*NVIDIA GauGAN*](http://nvidia-research-mingyuliu.com/gaugan/)
+* [*RapidMiner*](https://rapidminer.com/)
+* [*Shogun*](https://www.shogun-toolbox.org/)
 * [*Weka*](https://www.cs.waikato.ac.nz/ml/weka/)
