@@ -139,7 +139,11 @@ Some of the content, specially related to social media, is focused in the brazil
 
 ---
 
-## **Libraries & Frameworks**
+## **Libraries & Frameworks & Tools**
+### Java
+* [*KNIME*](https://www.knime.com/)
+* [*Weka*](https://www.cs.waikato.ac.nz/ml/weka/)
+
 ### JavaScript
 * [*TensorFlow.js*](https://www.tensorflow.org/js)
 
@@ -150,6 +154,7 @@ Some of the content, specially related to social media, is focused in the brazil
 ### Python
 * [*Keras*](https://keras.io/)
 * [*Mxnet*](https://mxnet.apache.org/)
+* [*Orange*](https://orange.biolab.si/)
 * [*PyTorch*](https://pytorch.org/)
 * [*Scikit-Learn*](https://scikit-learn.org/stable/)
 * [*TensorFlow*](https://www.tensorflow.org/)
@@ -158,6 +163,9 @@ Some of the content, specially related to social media, is focused in the brazil
 
 ### R
 * [*Tidyverse*](https://www.tidyverse.org/)
+
+### Scala
+* [*Apache Mahout*](https://mahout.apache.org/)
 
 ---
 
@@ -209,18 +217,24 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Quanta Magazine - Artificial Intelligence*](https://www.quantamagazine.org/tag/artificial-intelligence/)
 * [*ThoughtWorks - Technology Radar*](https://www.thoughtworks.com/radar)
 
+### Others
+* [*ACM Software System Award*](https://awards.acm.org/software-system/award-winners)
+
 ---
 ## **Social Media**
 ### **Blogs**
 * [*Algorithmia*](https://algorithmia.com/blog)
+* [*AWS Blog*](https://aws.amazon.com/blogs/aws/)
 * [*Berkeley AI Research Blog*](https://bair.berkeley.edu/blog/)
 * [*Deepmind Blog*](https://deepmind.com/blog)
 * [*Facebook - AI Blog*](https://ai.facebook.com/blog/)
 * [*Google - AI Blog*](https://ai.googleblog.com/)
 * [*IBM Research*](https://www.ibm.com/blogs/research/)  &nbsp;|&nbsp; [*IBM Watson*](https://www.ibm.com/blogs/watson/)
+* [*KNIME Blog*](https://www.knime.com/blog)
 * [*Man AHL Technology Group*](https://www.ahl.com/technology#_latest-technology-articles)
 * [*NVIDIA - Developer Blog*](https://devblogs.nvidia.com/)
 * [*Open AI Blog*](https://openai.com/blog/)
+* [*Orange Blog*](https://orange.biolab.si/blog/)
 
 
 ### **Meetup**
@@ -256,8 +270,7 @@ Some of the content, specially related to social media, is focused in the brazil
 
 
 ## **Tools**
-* [*AWS SageMaker*](https://aws.amazon.com/en/sagemaker/)
-* [*AWS DeepComposer*](https://aws.amazon.com/deepcomposer/)
-* [*Azure ML Studio*](https://studio.azureml.net/)
+* [*AWS SageMaker*](https://aws.amazon.com/en/sagemaker/) &nbsp;|&nbsp; [*AWS DeepComposer*](https://aws.amazon.com/deepcomposer/) &nbsp;|&nbsp; [*AWS Rekognition*](https://aws.amazon.com/rekognition/) &nbsp;|&nbsp; [*Amazon Lex*](https://aws.amazon.com/lex/)
+* [*Azure ML Studio*](https://studio.azureml.net/) &nbsp;|&nbsp; [*Azure Notebooks*](https://notebooks.azure.com/)
 * [*Google Colab*](colab.research.google.com/)
 * [*NVIDIA GauGAN*](http://nvidia-research-mingyuliu.com/gaugan/)
