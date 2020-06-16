@@ -234,6 +234,7 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Meet Kedro, McKinsey’s first open-source software tool*](https://www.mckinsey.com/about-us/new-at-mckinsey-blog/meet-kedro-mckinseys-first-open-source-software-tool#)
 * [*Open-sourcing Polynote: an IDE-inspired polyglot notebook*](https://netflixtechblog.com/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447)
 * [*Tracking Social Issues and Topics in Presidential Speeches*](https://tlfvincent.github.io/2015/10/23/presidential-speech-topics/)
+* [*Zero-shot Learning : An Introduction*](https://www.learnopencv.com/zero-shot-learning-an-introduction/)
 
 ### Portuguese
 * [*Analisando dados com Knime*](https://medium.com/@datalivre/descubra-a-plataforma-de-an%C3%A1lise-de-dados-knime-8218ccbea431)
@@ -256,9 +257,11 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Julia Academy*](https://juliaacademy.com/)
 * [*Machine Learning Times*](https://www.predictiveanalyticsworld.com/machinelearningtimes/)
 * [*Netflix - ML and Experimentation Platform*](https://research.netflix.com/research-area/machine-learning-platform)
+* [*NumFocus*](https://numfocus.org/)
 * [*Open AI*](https://openai.com/)
 * [*Ostagram*](https://www.ostagram.me/about?locale=en) &nbsp;|&nbsp; [github](https://github.com/SergeyMorugin/ostagram)
 * [*Oxford - Future of Humanity Institute*](https://www.fhi.ox.ac.uk/)
+* [*Quansight*](https://www.quansight.com/)
 * [*Quanta Magazine - Artificial Intelligence*](https://www.quantamagazine.org/tag/artificial-intelligence/)
 * [*ThoughtWorks - Technology Radar*](https://www.thoughtworks.com/radar)
 
