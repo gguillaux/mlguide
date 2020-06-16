@@ -20,6 +20,8 @@ Some of the content, specially related to social media, is focused in the brazil
     * [amazon](https://www.amazon.com/Machine-Learning-Quantitative-Investment-Finance-ebook/dp/B07LC5RGK4/)
 * *Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking*
     * [amazon](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking-ebook/dp/B00E6EQ3X4/)
+* *Dive into Deep Learning*
+    * [page](http://d2l.ai/index.html)
 * *Inteligência Artificial. Uma Abordagem de Aprendizado de Máquina*
     * [amazon](https://www.amazon.com.br/Inteligência-Artificial-Abordagem-Aprendizado-Máquina/dp/8521618808/)
 * *The Art of Data Science*
