@@ -124,16 +124,27 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Stanford Online - AI & DS*](https://online.stanford.edu/search-catalog?topics%5B1054%5D=1054&topics%5B1062%5D=1062&keywords=)
 * [*Udacity - AI School*](https://www.udacity.com/school-of-ai)
 
+#### Coursera
+* [*Machine Learning with TensorFlow on Google Cloud Platform Specialization*](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+* [*Stanford - Machine Learning*](https://www.coursera.org/learn/machine-learning)
 
 
 ---
 
 ## **Certifications**
+* Amazon
+    * [*AWS Certified Machine Learning – Specialty*](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
+
 * Google
     * [*GCP - Professional Data Engineer*](https://cloud.google.com/certification/data-engineer)
+
 * Microsoft
     * [*Azure - Data Analyst Associate*](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate) &nbsp;|&nbsp; [*Azure - Data Engineer Associate*](https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer)
     * [*Azure - Data Scientist Associate*](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist) &nbsp;|&nbsp; [*Azure - AI Engineer Associate*](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer)
+
+* MIT
+    * [*Professional Certificate in Machine Learning & Artificial Intelligence*](https://professional.mit.edu/programs/certificate-programs/professional-certificate-program-machine-learning-artificial)
+
 * CQF Institute
     * [*Certificate in Quantitative Finance*](https://www.cqf.com/)
 
@@ -142,6 +153,9 @@ Some of the content, specially related to social media, is focused in the brazil
 ## **Libraries & Frameworks & Tools**
 ### .NET
 * [*Accord*](http://accord-framework.net/)
+
+### C++
+* [*OpenNN*](https://www.opennn.net/)
 
 ### Java
 * [*DeepLearning4j*](https://deeplearning4j.org/)
@@ -187,6 +201,8 @@ Some of the content, specially related to social media, is focused in the brazil
 
 
 ## **Web Articles**
+
+### English
 * [*Four Ways Data Science Goes Wrong and How Test-Driven Data Analysis Can Help*](https://www.predictiveanalyticsworld.com/machinelearningtimes/four-ways-data-science-goes-wrong-and-how-test-driven-data-analysis-can-help/6947/)
 * [*HBR - What Great Data Analysts Do — and Why Every Organization Needs Them*](https://hbr.org/2018/12/what-great-data-analysts-do-and-why-every-organization-needs-them?utm_campaign=hbr&utm_medium=social&utm_source=linkedin)
 * [*Introducing Ludwig, a Code-Free Deep Learning Toolbox*](https://eng.uber.com/introducing-ludwig/)
@@ -194,6 +210,9 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Meet Kedro, McKinsey’s first open-source software tool*](https://www.mckinsey.com/about-us/new-at-mckinsey-blog/meet-kedro-mckinseys-first-open-source-software-tool#)
 * [*Open-sourcing Polynote: an IDE-inspired polyglot notebook*](https://netflixtechblog.com/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447)
 * [*Tracking Social Issues and Topics in Presidential Speeches*](https://tlfvincent.github.io/2015/10/23/presidential-speech-topics/)
+
+### Portuguese
+* [*Analisando dados com Knime*](https://medium.com/@datalivre/descubra-a-plataforma-de-an%C3%A1lise-de-dados-knime-8218ccbea431)
 
 ---
 ## **Web Pages**
