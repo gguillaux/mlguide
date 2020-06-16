@@ -140,10 +140,6 @@ Some of the content, specially related to social media, is focused in the brazil
 ---
 
 ## **Libraries & Frameworks & Tools**
-### Java
-* [*KNIME*](https://www.knime.com/)
-* [*Weka*](https://www.cs.waikato.ac.nz/ml/weka/)
-
 ### JavaScript
 * [*TensorFlow.js*](https://www.tensorflow.org/js)
 
@@ -273,4 +269,6 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*AWS SageMaker*](https://aws.amazon.com/en/sagemaker/) &nbsp;|&nbsp; [*AWS DeepComposer*](https://aws.amazon.com/deepcomposer/) &nbsp;|&nbsp; [*AWS Rekognition*](https://aws.amazon.com/rekognition/) &nbsp;|&nbsp; [*Amazon Lex*](https://aws.amazon.com/lex/)
 * [*Azure ML Studio*](https://studio.azureml.net/) &nbsp;|&nbsp; [*Azure Notebooks*](https://notebooks.azure.com/)
 * [*Google Colab*](colab.research.google.com/)
+* [*KNIME*](https://www.knime.com/)
 * [*NVIDIA GauGAN*](http://nvidia-research-mingyuliu.com/gaugan/)
+* [*Weka*](https://www.cs.waikato.ac.nz/ml/weka/)
