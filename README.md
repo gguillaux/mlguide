@@ -172,22 +172,32 @@ Some of the content, specially related to social media, is focused in the brazil
 
 ---
 
+
 ## **Web Articles**
 * [*Four Ways Data Science Goes Wrong and How Test-Driven Data Analysis Can Help*](https://www.predictiveanalyticsworld.com/machinelearningtimes/four-ways-data-science-goes-wrong-and-how-test-driven-data-analysis-can-help/6947/)
 * [*HBR - What Great Data Analysts Do — and Why Every Organization Needs Them*](https://hbr.org/2018/12/what-great-data-analysts-do-and-why-every-organization-needs-them?utm_campaign=hbr&utm_medium=social&utm_source=linkedin)
+* [*Introducing Ludwig, a Code-Free Deep Learning Toolbox*](https://eng.uber.com/introducing-ludwig/)
+* [*Introducing Neuropod, Uber ATG’s Open Source Deep Learning Inference Engine*](https://eng.uber.com/introducing-neuropod/)
+* [*Tracking Social Issues and Topics in Presidential Speeches*](https://tlfvincent.github.io/2015/10/23/presidential-speech-topics/)
 ---
+
 
 ## **Web Pages**
 ### Authors
 * [*Cappra*](https://cappra.com.br/)
 * [*Nate Silver - 538*](https://fivethirtyeight.com/)
 * [*François Chollet*](https://fchollet.com/)
-* [* Ilya Sutskever *](http://www.cs.utoronto.ca/~ilya/)
+* [*Gautier Marti*](http://gautier.marti.ai/)
+* [*Ilya Sutskever*](http://www.cs.utoronto.ca/~ilya/)
 * [*Peter Norvig*](https://norvig.com/)
+
 
 ### Projects
 * [*Facebook AI*](https://ai.facebook.com/)
+* [*Google AI*](https://ai.google/)
 * [*Machine Learning Times*](https://www.predictiveanalyticsworld.com/machinelearningtimes/)
+* [*Netflix - ML and Experimentation Platform*](https://research.netflix.com/research-area/machine-learning-platform)
+* [*Open AI*](https://openai.com/)
 * [*Ostagram*](https://www.ostagram.me/about?locale=en) &nbsp;|&nbsp; [github](https://github.com/SergeyMorugin/ostagram)
 * [*Oxford - Future of Humanity Institute*](https://www.fhi.ox.ac.uk/)
 * [*Quanta Magazine - Artificial Intelligence*](https://www.quantamagazine.org/tag/artificial-intelligence/)
@@ -207,15 +217,18 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*NVIDIA - Developer Blog*](https://devblogs.nvidia.com/)
 * [*Open AI Blog*](https://openai.com/blog/)
 
+
 ### **Meetup**
 * [*AI Brasil*](https://www.meetup.com/pt-BR/ai-brasil/)
 * [*Nubank - Data Science & Machine Learning*](https://www.meetup.com/pt-BR/machine-learning-big-data-engenharia/)
 * [*TensorFlow São Paulo*](https://www.meetup.com/pt-BR/TensorFlowSP/)
 
+
 ### **Podcasts**
 * [*DataFramed - DataCamp*](https://www.datacamp.com/community/podcast)
 * [*McKinsey on AI*](https://open.spotify.com/show/6PtHDqSnL9UFgj3emMgUuY)
 * [*Quanta Magazine*](https://www.quantamagazine.org/tag/podcast)
+
 
 ### **Twitter**
 * [*Andrew Ng*](https://twitter.com/AndrewYNg)
@@ -223,6 +236,7 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Ilya Sutskever*](https://twitter.com/ilyasut)
 * [*Lex Fridman*](https://twitter.com/lexfridman)
 * [*Open AI*](https://twitter.com/OpenAI)
+
 
 ### **YouTube**
 * [*3Blue1Brown*](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
@@ -233,6 +247,7 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Lex Fridman*](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
 * [O'Reilly](https://www.youtube.com/oreillymedia)
 * [*PyData*](https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w)
+
 
 
 ## **Tools**
