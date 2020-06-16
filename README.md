@@ -165,8 +165,12 @@ Some of the content, specially related to social media, is focused in the brazil
 ### Data Science
 * [*(2009) The Unreasonable Effectiveness of Data*](http://static.googleusercontent.com/media/research.google.com/fr//pubs/archive/35179.pdf)
 
+### Deep Learning
+* [*(2020) Unsupervised Translation of Programming Languages*](https://arxiv.org/pdf/2006.03511.pdf)
+
 ### Finance
 * [*(2019) AI Pioneers in Investment Management*](https://www.cfainstitute.org/-/media/documents/survey/AI-Pioneers-in-Investment-Management.ashx)
+
 ### NLP
 * [*(2001) Scaling to Very Very Large Corpora for Natural Language Disambiguation*](https://www.microsoft.com/en-us/research/publication/scaling-to-very-very-large-corpora-for-natural-language-disambiguation/)
 
@@ -178,10 +182,11 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*HBR - What Great Data Analysts Do — and Why Every Organization Needs Them*](https://hbr.org/2018/12/what-great-data-analysts-do-and-why-every-organization-needs-them?utm_campaign=hbr&utm_medium=social&utm_source=linkedin)
 * [*Introducing Ludwig, a Code-Free Deep Learning Toolbox*](https://eng.uber.com/introducing-ludwig/)
 * [*Introducing Neuropod, Uber ATG’s Open Source Deep Learning Inference Engine*](https://eng.uber.com/introducing-neuropod/)
+* [*Meet Kedro, McKinsey’s first open-source software tool*](https://www.mckinsey.com/about-us/new-at-mckinsey-blog/meet-kedro-mckinseys-first-open-source-software-tool#)
+* [*Open-sourcing Polynote: an IDE-inspired polyglot notebook*](https://netflixtechblog.com/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447)
 * [*Tracking Social Issues and Topics in Presidential Speeches*](https://tlfvincent.github.io/2015/10/23/presidential-speech-topics/)
+
 ---
-
-
 ## **Web Pages**
 ### Authors
 * [*Cappra*](https://cappra.com.br/)
@@ -195,6 +200,7 @@ Some of the content, specially related to social media, is focused in the brazil
 ### Projects
 * [*Facebook AI*](https://ai.facebook.com/)
 * [*Google AI*](https://ai.google/)
+* [*IBM Artificial Intelligence*](https://www.research.ibm.com/artificial-intelligence/)
 * [*Machine Learning Times*](https://www.predictiveanalyticsworld.com/machinelearningtimes/)
 * [*Netflix - ML and Experimentation Platform*](https://research.netflix.com/research-area/machine-learning-platform)
 * [*Open AI*](https://openai.com/)
@@ -204,7 +210,6 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*ThoughtWorks - Technology Radar*](https://www.thoughtworks.com/radar)
 
 ---
-
 ## **Social Media**
 ### **Blogs**
 * [*Algorithmia*](https://algorithmia.com/blog)
