@@ -30,6 +30,8 @@ Some of the content, specially related to social media, is focused in the brazil
     * [amazon](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X)
 * *The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies*
     * [amazon](https://www.amazon.com/Second-Machine-Age-Prosperity-Technologies/dp/0393350649?ref_=fsclp_pl_dp_1)
+* *Handbook of Neuroevolution Through Erlang*
+    * [amazon](https://www.amazon.com/Handbook-Neuroevolution-Through-Erlang-Gene/dp/1461444624)
 * *How to Create a Mind: The Secret of Human Thought Revealed*
     * [amazon](https://www.amazon.com/How-Create-Mind-Thought-Revealed-ebook/dp/B007V65UUG/)
 * *Prediction Machines: The Simple Economics of Artificial Intelligence*
@@ -229,6 +231,7 @@ Some of the content, specially related to social media, is focused in the brazil
 ### English
 * [*Four Ways Data Science Goes Wrong and How Test-Driven Data Analysis Can Help*](https://www.predictiveanalyticsworld.com/machinelearningtimes/four-ways-data-science-goes-wrong-and-how-test-driven-data-analysis-can-help/6947/)
 * [*HBR - What Great Data Analysts Do — and Why Every Organization Needs Them*](https://hbr.org/2018/12/what-great-data-analysts-do-and-why-every-organization-needs-them?utm_campaign=hbr&utm_medium=social&utm_source=linkedin)
+* [*How to Build a Machine Learning Project in Elixir*](https://dzone.com/articles/how-to-build-a-machine-learning-project-in-elixir)
 * [*Introducing Ludwig, a Code-Free Deep Learning Toolbox*](https://eng.uber.com/introducing-ludwig/)
 * [*Introducing Neuropod, Uber ATG’s Open Source Deep Learning Inference Engine*](https://eng.uber.com/introducing-neuropod/)
 * [*Meet Kedro, McKinsey’s first open-source software tool*](https://www.mckinsey.com/about-us/new-at-mckinsey-blog/meet-kedro-mckinseys-first-open-source-software-tool#)
