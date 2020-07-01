@@ -236,6 +236,7 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Introducing Neuropod, Uber ATG’s Open Source Deep Learning Inference Engine*](https://eng.uber.com/introducing-neuropod/)
 * [*Meet Kedro, McKinsey’s first open-source software tool*](https://www.mckinsey.com/about-us/new-at-mckinsey-blog/meet-kedro-mckinseys-first-open-source-software-tool#)
 * [*Open-sourcing Polynote: an IDE-inspired polyglot notebook*](https://netflixtechblog.com/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447)
+* [*Tech Skills of Tomorrow: Machine Learning*](https://www.pluralsight.com/blog/machine-learning/tech-skills-tomorrow-machine-learning)
 * [*Tracking Social Issues and Topics in Presidential Speeches*](https://tlfvincent.github.io/2015/10/23/presidential-speech-topics/)
 * [*Zero-shot Learning : An Introduction*](https://www.learnopencv.com/zero-shot-learning-an-introduction/)
 
