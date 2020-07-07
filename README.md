@@ -66,6 +66,8 @@ Some of the content, specially related to social media, is focused in the brazil
     * [amazon](https://www.amazon.com/Derivatives-Analytics-Python-Simulation-Calibration-ebook/dp/B0104CGB1A/)
 * *Machine Learning for Asset Managers*
     * [amazon](https://www.amazon.com/Machine-Learning-Managers-Elements-Quantitative-ebook/dp/B08461XP7R/)
+* *Machine Learning in Finance: From Theory to Practice*
+    * [amazon](https://www.amazon.com/Machine-Learning-Finance-Theory-Practice/dp/3030410676/)
 * *Python for Finance: Mastering Data-Driven Finance*
     * [amazon](https://www.amazon.com/Python-Finance-Mastering-Data-Driven-ebook/dp/B07L8NMW2P/)
 
@@ -225,6 +227,9 @@ Some of the content, specially related to social media, is focused in the brazil
 
 ---
 
+## **Thesis**
+* [*(2014) Machine Learning Algorithms with Applications in Finance - Eyal Gofer*](https://www.cs.tau.ac.il/thesis/thesis/Gofer.Eyal-PhD.pdf)
+---
 
 ## **Web Articles**
 
@@ -268,6 +273,9 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Quansight*](https://www.quansight.com/)
 * [*Quanta Magazine - Artificial Intelligence*](https://www.quantamagazine.org/tag/artificial-intelligence/)
 * [*ThoughtWorks - Technology Radar*](https://www.thoughtworks.com/radar)
+
+### PPTs
+* [*(2017) Machine Learning in mathematical Finance*](https://ethz.ch/content/dam/ethz/special-interest/math/imsf-dam/documents/ETH%20Practitioner%20Seminar%20in%20Financial%20and%20Insurance%20Mathematics/talk_eth_Teichmann_151217.pdf)
 
 ### Others
 * [*ACM Software System Award*](https://awards.acm.org/software-system/award-winners)
