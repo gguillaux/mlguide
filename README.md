@@ -16,8 +16,6 @@ Some of the content, specially related to social media, is focused in the brazil
     * [amazon](https://www.amazon.com/Architects-Intelligence-truth-people-building-ebook/dp/B07H8L8T2J/)
 * *Big Data: A Revolution that will Transform How We Live, Work and Think*
     * [amazon](https://www.amazon.com/Big-Data-Revolution-Transform-Think/dp/1848547900/)
-* *Big Data and Machine Learning in Quantitative Investment*
-    * [amazon](https://www.amazon.com/Machine-Learning-Quantitative-Investment-Finance-ebook/dp/B07LC5RGK4/)
 * *Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking*
     * [amazon](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking-ebook/dp/B00E6EQ3X4/)
 * *Dive into Deep Learning*
@@ -62,6 +60,8 @@ Some of the content, specially related to social media, is focused in the brazil
 ### ML & Finance
 * *Advances in Financial Machine Learning*
     * [amazon](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos-ebook/dp/B079KLDW21/)
+* *Big Data and Machine Learning in Quantitative Investment*
+    * [amazon](https://www.amazon.com/Machine-Learning-Quantitative-Investment-Finance-ebook/dp/B07LC5RGK4/)
 * *Derivatives Analytics with Python: Data Analysis, Models, Simulation, Calibration and Hedging*
     * [amazon](https://www.amazon.com/Derivatives-Analytics-Python-Simulation-Calibration-ebook/dp/B0104CGB1A/)
 * *Machine Learning for Asset Managers*
