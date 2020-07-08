@@ -134,6 +134,7 @@ Some of the content, specially related to social media, is focused in the brazil
 #### Coursera
 * [*Deep Learning Specialization*](https://www.coursera.org/specializations/deep-learning)
 * [*IBM - Machine Learning with Python*](https://www.coursera.org/learn/machine-learning-with-python)
+* [*Machine Learning for Trading Specialization*](https://www.coursera.org/specializations/machine-learning-trading)
 * [*Machine Learning with TensorFlow on Google Cloud Platform Specialization*](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
 * [*Mathematics for Machine Learning Specialization*](https://www.coursera.org/specializations/mathematics-machine-learning)
 * [*Stanford - Machine Learning*](https://www.coursera.org/learn/machine-learning)
@@ -160,7 +161,6 @@ Some of the content, specially related to social media, is focused in the brazil
 
 * CQF Institute
     * [*Certificate in Quantitative Finance*](https://www.cqf.com/)
-
 ---
 
 ## **Libraries & Frameworks & Tools**
@@ -178,6 +178,9 @@ Some of the content, specially related to social media, is focused in the brazil
 
 ### Julia
 * [*Flux*](https://fluxml.ai/)
+* [*Knet*](https://github.com/denizyuret/Knet.jl)
+* [*TextAnalysis*](https://github.com/JuliaText/TextAnalysis.jl)
+
 
 ### Python
 * [*Apple Core ML*](https://developer.apple.com/documentation/coreml)
