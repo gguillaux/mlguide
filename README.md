@@ -20,6 +20,8 @@ Some of the content, specially related to social media, is focused in the brazil
     * [amazon](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking-ebook/dp/B00E6EQ3X4/)
 * *Dive into Deep Learning*
     * [page](http://d2l.ai/index.html)
+* *Fundamentals of Machine Learning for Predictive Data Analytics*
+    * [amazon](https://www.amazon.com.br/Fundamentals-Machine-Learning-Predictive-Analytics/dp/0262029448)
 * *Inteligência Artificial. Uma Abordagem de Aprendizado de Máquina*
     * [amazon](https://www.amazon.com.br/Inteligência-Artificial-Abordagem-Aprendizado-Máquina/dp/8521618808/)
 * *The Art of Data Science*
