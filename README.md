@@ -301,6 +301,8 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Open AI Blog*](https://openai.com/blog/)
 * [*Orange Blog*](https://orange.biolab.si/blog/)
 
+### **GitHub Reference Repos**
+* [*Awesome MLOps*](https://github.com/visenger/awesome-mlops)
 
 ### **Meetup**
 * [*AI Brasil*](https://www.meetup.com/pt-BR/ai-brasil/)
@@ -331,6 +333,7 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Lex Fridman*](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
 * [O'Reilly](https://www.youtube.com/oreillymedia)
 * [*PyData*](https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w)
+* [*Tübingen Machine Learning*](https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhEbA)
 
 
 
