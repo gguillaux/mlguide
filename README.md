@@ -240,6 +240,8 @@ Some of the content, specially related to social media, is focused in the brazil
 
 ### English
 * [*Four Ways Data Science Goes Wrong and How Test-Driven Data Analysis Can Help*](https://www.predictiveanalyticsworld.com/machinelearningtimes/four-ways-data-science-goes-wrong-and-how-test-driven-data-analysis-can-help/6947/)
+* [*HBR - Data Scientist: The Sexiest Job of the 21st Century*](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)
+* [*Data Science and the Art of Persuasion*](https://hbr.org/2019/01/data-science-and-the-art-of-persuasion)
 * [*HBR - What Great Data Analysts Do — and Why Every Organization Needs Them*](https://hbr.org/2018/12/what-great-data-analysts-do-and-why-every-organization-needs-them?utm_campaign=hbr&utm_medium=social&utm_source=linkedin)
 * [*How to Build a Machine Learning Project in Elixir*](https://dzone.com/articles/how-to-build-a-machine-learning-project-in-elixir)
 * [*Introducing Ludwig, a Code-Free Deep Learning Toolbox*](https://eng.uber.com/introducing-ludwig/)
@@ -252,6 +254,7 @@ Some of the content, specially related to social media, is focused in the brazil
 
 ### Portuguese
 * [*Analisando dados com Knime*](https://medium.com/@datalivre/descubra-a-plataforma-de-an%C3%A1lise-de-dados-knime-8218ccbea431)
+* [*A melhor forma de adotar a IA*](https://hbrbr.com.br/a-melhor-forma-de-adotar-a-ia/)
 
 ---
 ## **Web Pages**
