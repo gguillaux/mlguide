@@ -305,6 +305,7 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Oxford - Future of Humanity Institute*](https://www.fhi.ox.ac.uk/)
 * [*Quansight*](https://www.quansight.com/)
 * [*Quanta Magazine - Artificial Intelligence*](https://www.quantamagazine.org/tag/artificial-intelligence/)
+* [*Thalesians*](https://thalesians.com/)
 * [*ThoughtWorks - Technology Radar*](https://www.thoughtworks.com/radar)
 * [*Bloomberg AI*](https://www.techatbloomberg.com/ai/)
 * [*Insper - Finance Hub*](https://www.financehub.community/)
@@ -344,7 +345,7 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*AI Brasil*](https://www.meetup.com/pt-BR/ai-brasil/)
 * [*Nubank - Data Science & Machine Learning*](https://www.meetup.com/pt-BR/machine-learning-big-data-engenharia/)
 * [*TensorFlow São Paulo*](https://www.meetup.com/pt-BR/TensorFlowSP/)
-* [*Thalessians*](https://www.meetup.com/thalesians/)
+* [*Thalesians*](https://www.meetup.com/thalesians/)
 
 ### **Podcasts**
 * [*AQR - The Curious Investor*](https://open.spotify.com/show/1xN5mg9TuhyZ5oYi68bgY5?si=9-KWs9o8RRC9Y9mp3b_h8Q)
