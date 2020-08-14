@@ -326,15 +326,19 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Google - AI Blog*](https://ai.googleblog.com/)
 * [*IBM Research*](https://www.ibm.com/blogs/research/)  &nbsp;|&nbsp; [*IBM Watson*](https://www.ibm.com/blogs/watson/)
 * [*KNIME Blog*](https://www.knime.com/blog)
+* [*Neptune AI Blog*](https://neptune.ai/blog)
 * [*Man AHL Technology Group*](https://www.ahl.com/technology#_latest-technology-articles)
 * [*NVIDIA - Developer Blog*](https://devblogs.nvidia.com/)
 * [*Open AI Blog*](https://openai.com/blog/)
 * [*Orange Blog*](https://orange.biolab.si/blog/)
 
 ### **GitHub Reference Repos**
+* [*Applied ML*](https://github.com/eugeneyan/applied-ml)
 * [*Awesome MLOps*](https://github.com/visenger/awesome-mlops)
 * [*AWS - Machine Learning University Accelerated Natural Language Processing Class*](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp)
+* [*Machine Learning and Data Science Applications in Industry*](https://github.com/firmai/industry-machine-learning)
 * [*Finance Hub*](https://github.com/Finance-Hub)
+* [*The NLP Pandect*](https://github.com/ivan-bilan/The-NLP-Pandect)
 
 ### **Meetup**
 * [*AI Brasil*](https://www.meetup.com/pt-BR/ai-brasil/)
