@@ -45,6 +45,12 @@ Some of the content, specially related to social media, is focused in the brazil
 * *Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*
     * [amazon](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality-ebook/dp/B019B6VCLO/)
 
+### C#
+* *C# Machine Learning Projects*
+    * [packt](https://www.packtpub.com/big-data-and-business-intelligence/c-machine-learning-projects)
+* *Hands-On Machine Learning with C#*
+    * [packt](https://www.packtpub.com/big-data-and-business-intelligence/hands-machine-learning-c)
+
 ### Data Engineering
 * *Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems*
     * [amazon](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/)
@@ -115,6 +121,12 @@ Some of the content, specially related to social media, is focused in the brazil
     * [amazon](https://www.amazon.com/Deep-Learning-R-Francois-Chollet/dp/161729554X/)
 * *R for Data Science*
     * [amazon](https://www.amazon.com/Data-Science-Transform-Visualize-Model-ebook/dp/B01NAJAEN5/ref=reads_cwrtbar_2/130-9588645-0194712?_encoding=UTF8&pd_rd_i=B01NAJAEN5&pd_rd_r=27a9034b-57d2-4cf8-9873-537f3b6c26cf&pd_rd_w=oCYaQ&pd_rd_wg=6p6fW&pf_rd_p=f7e50e46-03c7-4eda-9ad4-faa4a79972b4&pf_rd_r=YDKV6ZC7EJZDXTGK5ZD2&psc=1&refRID=YDKV6ZC7EJZDXTGK5ZD2)
+
+
+### Swift
+* *Machine Learning with Swift*
+    [packt](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-swift)
+
 
 ### Statistics
 * *La Politique des Grands Nombres: Histoire de la Raison Statistique*
@@ -246,6 +258,7 @@ Some of the content, specially related to social media, is focused in the brazil
 ## **Web Articles**
 
 ### English
+* [*Amazon's Machine Learning University is making its online courses available to the public*](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
 * [*Four Ways Data Science Goes Wrong and How Test-Driven Data Analysis Can Help*](https://www.predictiveanalyticsworld.com/machinelearningtimes/four-ways-data-science-goes-wrong-and-how-test-driven-data-analysis-can-help/6947/)
 * [*HBR - Data Scientist: The Sexiest Job of the 21st Century*](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)
 * [*Data Science and the Art of Persuasion*](https://hbr.org/2019/01/data-science-and-the-art-of-persuasion)
@@ -315,15 +328,18 @@ Some of the content, specially related to social media, is focused in the brazil
 
 ### **GitHub Reference Repos**
 * [*Awesome MLOps*](https://github.com/visenger/awesome-mlops)
+* [*AWS - Machine Learning University Accelerated Natural Language Processing Class*](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp)
+* [*Finance Hub*](https://github.com/Finance-Hub)
 
 ### **Meetup**
 * [*AI Brasil*](https://www.meetup.com/pt-BR/ai-brasil/)
 * [*Nubank - Data Science & Machine Learning*](https://www.meetup.com/pt-BR/machine-learning-big-data-engenharia/)
 * [*TensorFlow São Paulo*](https://www.meetup.com/pt-BR/TensorFlowSP/)
 
-
 ### **Podcasts**
+* [*AQR - The Curious Investor*](https://open.spotify.com/show/1xN5mg9TuhyZ5oYi68bgY5?si=9-KWs9o8RRC9Y9mp3b_h8Q)
 * [*DataFramed - DataCamp*](https://www.datacamp.com/community/podcast)
+* [*Inside Alana Podcast (portuguese)*](https://open.spotify.com/show/1Yg13ZQVE0dCpcgJ7xZ7LI?si=KvWye8gjRUqkJNvyh5JZVA)
 * [*McKinsey on AI*](https://open.spotify.com/show/6PtHDqSnL9UFgj3emMgUuY)
 * [*Quanta Magazine*](https://www.quantamagazine.org/tag/podcast)
 
@@ -338,6 +354,7 @@ Some of the content, specially related to social media, is focused in the brazil
 
 ### **YouTube**
 * [*3Blue1Brown*](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+* [*Amazon - Machine Learning University*](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw)
 * [*Artificial Intelligence Podcast*](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
 * [*Diogo Cortiz*](https://www.youtube.com/channel/UC5MXrSUoLW0JRd2j7q1ef7Q)
 * [*Escola Livre de Inteligência Artificial*](https://www.youtube.com/channel/UCLsS3dxDbu5uWcCJQxNdt9Q)
@@ -346,7 +363,6 @@ Some of the content, specially related to social media, is focused in the brazil
 * [O'Reilly](https://www.youtube.com/oreillymedia)
 * [*PyData*](https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w)
 * [*Tübingen Machine Learning*](https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhEbA)
-
 
 
 ## **Tools**
