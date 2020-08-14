@@ -74,6 +74,13 @@ Some of the content, specially related to social media, is focused in the brazil
     * [amazon](https://www.amazon.com/Python-Finance-Mastering-Data-Driven-ebook/dp/B07L8NMW2P/)
 
 
+### Java
+* *Mastering Java Machine Learning*
+    * [packt](https://www.packtpub.com/big-data-and-business-intelligence/mastering-java-machine-learning)
+* *Machine Learning in Java*
+    * [packt](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-java-second-edition)
+
+
 ### Python
 * *Building Machine Learning Powered Applications: Going from Idea to Product*
     * [amazon](https://www.amazon.com/Building-Machine-Learning-Powered-Applications-dp-149204511X/dp/149204511X/)
@@ -281,6 +288,8 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Quansight*](https://www.quansight.com/)
 * [*Quanta Magazine - Artificial Intelligence*](https://www.quantamagazine.org/tag/artificial-intelligence/)
 * [*ThoughtWorks - Technology Radar*](https://www.thoughtworks.com/radar)
+* [*Bloomberg AI*](https://www.techatbloomberg.com/ai/)
+* [*Insper - Finance Hub*](https://www.financehub.community/)
 
 ### PPTs
 * [*(2017) Machine Learning in mathematical Finance*](https://ethz.ch/content/dam/ethz/special-interest/math/imsf-dam/documents/ETH%20Practitioner%20Seminar%20in%20Financial%20and%20Insurance%20Mathematics/talk_eth_Teichmann_151217.pdf)
