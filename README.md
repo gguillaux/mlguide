@@ -373,6 +373,9 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Lex Fridman*](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
 * [O'Reilly](https://www.youtube.com/oreillymedia)
 * [*PyData*](https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w)
+* [*PyData - São Paulo*](https://www.youtube.com/channel/UCejuzULiRcqml_DOnY2IFfA)
+* [*Thalesians*](https://www.youtube.com/channel/UCre96Z3bjUBrZWppHIliRVw/videos)
+* [*Tristan Behrens*](https://www.youtube.com/channel/UCcMEBxcDM034JyJ8J3cggRg)
 * [*Tübingen Machine Learning*](https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhEbA)
 
 
