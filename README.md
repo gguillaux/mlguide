@@ -164,6 +164,11 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Harvard - Data Science: Machine Learning*](https://www.edx.org/course/data-science-machine-learning)
 
 
+### Masters
+* [*FIAP - MBA em Inteligência Artificial e Machine Learning (portuguese)*](https://www.fiap.com.br/mba/mba-em-artificial-intelligence-e-machine-learning/)
+* [*Worldquant -MSc in Financial Engineering*](https://wqu.org/programs/mscfe)
+* [*University of Texas at Austin - Master in Data Science*](https://www.edx.org/masters/online-master-data-science-utaustinx)
+
 ---
 
 ## **Certifications**
