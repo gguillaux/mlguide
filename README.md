@@ -375,6 +375,7 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*PyData*](https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w)
 * [*PyData - São Paulo*](https://www.youtube.com/channel/UCejuzULiRcqml_DOnY2IFfA)
 * [*Thalesians*](https://www.youtube.com/channel/UCre96Z3bjUBrZWppHIliRVw/videos)
+* [*The Coding Train*](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 * [*Tristan Behrens*](https://www.youtube.com/channel/UCcMEBxcDM034JyJ8J3cggRg)
 * [*Tübingen Machine Learning*](https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhEbA)
 
