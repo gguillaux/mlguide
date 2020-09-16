@@ -198,6 +198,7 @@ Some of the content, specially related to social media, is focused in the brazil
 
 ### Java
 * [*DeepLearning4j*](https://deeplearning4j.org/)
+* [*tsml*](https://github.com/uea-machine-learning/tsml)
 
 ### JavaScript
 * [*TensorFlow.js*](https://www.tensorflow.org/js)
@@ -225,6 +226,7 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*PyTorch*](https://pytorch.org/)
 * [*Scikit-Learn*](https://scikit-learn.org/stable/)
 * [*SimpleCV*](http://simplecv.org/)
+* [*Sktime*](https://github.com/alan-turing-institute/sktime)
 * [*Stanford CoreNLP*](https://stanfordnlp.github.io/CoreNLP/)
 * [*TensorFlow*](https://www.tensorflow.org/)
 * [*Tesseract OCR*](https://github.com/tesseract-ocr/tesseract)
@@ -242,6 +244,7 @@ Some of the content, specially related to social media, is focused in the brazil
 
 ## **Papers**
 ### Data Science
+* [*(1995) Random Decision Forests*](https://web.archive.org/web/20160417030218/http://ect.bell-labs.com/who/tkh/publications/papers/odt.pdf)
 * [*(2009) The Unreasonable Effectiveness of Data*](http://static.googleusercontent.com/media/research.google.com/fr//pubs/archive/35179.pdf)
 
 ### Deep Learning
@@ -249,10 +252,14 @@ Some of the content, specially related to social media, is focused in the brazil
 
 ### Finance
 * [*(2019) AI Pioneers in Investment Management*](https://www.cfainstitute.org/-/media/documents/survey/AI-Pioneers-in-Investment-Management.ashx)
+* [*(2019) Microstructure in the Machine Age*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3345183)
 
 ### NLP
 * [*(2001) Scaling to Very Very Large Corpora for Natural Language Disambiguation*](https://www.microsoft.com/en-us/research/publication/scaling-to-very-very-large-corpora-for-natural-language-disambiguation/)
 * [*(2015) librosa: Audio and Music Signal Analysis in Python*](http://conference.scipy.org/proceedings/scipy2015/pdfs/brian_mcfee.pdf)
+
+### Time Series
+* [*(2019) sktime: A Unified Interface for Machine Learning with Time Series*](http://learningsys.org/neurips19/assets/papers/sktime_ml_systems_neurips2019.pdf)
 
 ---
 
@@ -264,6 +271,7 @@ Some of the content, specially related to social media, is focused in the brazil
 
 ### English
 * [*Amazon's Machine Learning University is making its online courses available to the public*](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
+* [*Cornell - Machine learning can predict market behavior*](https://news.cornell.edu/stories/2020/08/study-machine-learning-can-predict-market-behavior)
 * [*Four Ways Data Science Goes Wrong and How Test-Driven Data Analysis Can Help*](https://www.predictiveanalyticsworld.com/machinelearningtimes/four-ways-data-science-goes-wrong-and-how-test-driven-data-analysis-can-help/6947/)
 * [*HBR - Data Scientist: The Sexiest Job of the 21st Century*](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)
 * [*Data Science and the Art of Persuasion*](https://hbr.org/2019/01/data-science-and-the-art-of-persuasion)
