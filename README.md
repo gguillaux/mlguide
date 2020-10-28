@@ -65,6 +65,10 @@ Some of the content, specially related to social media, is focused in the brazil
 * *Hands-On Deep Learning with Go*
     * [amazon](https://www.amazon.com/Hands-Deep-Learning-practical-implementing-ebook/dp/B07VS2PY67/)
 
+### Marketing
+* *Introduction to Algorithmic Marketing*
+    * [amazon](https://www.amazon.com.br/Introduction-Algorithmic-Marketing-Artificial-Intelligence/dp/0692142606)
+
 ### ML & Finance
 * *Advances in Financial Machine Learning*
     * [amazon](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos-ebook/dp/B079KLDW21/)
@@ -251,6 +255,7 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*(2020) Unsupervised Translation of Programming Languages*](https://arxiv.org/pdf/2006.03511.pdf)
 
 ### Finance
+* [*(2006) Reinforcement Learning for Optimized Trade Execution*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj_ravm9NfsAhWfILkGHdyFC6MQFjABegQIAhAC&url=https%3A%2F%2Fwww.seas.upenn.edu%2F~mkearns%2Fpapers%2Frlexec.pdf&usg=AOvVaw0wfF4arFszIixxcOaK8jFV)
 * [*(2012) Optimal Execution and Block Trade Pricing: a general framework*](https://arxiv.org/pdf/1210.6372)
 * [*(2015) Volume Weighted Average Price Optimal Execution*](https://arxiv.org/pdf/1509.08503)
 * [*(2019) AI Pioneers in Investment Management*](https://www.cfainstitute.org/-/media/documents/survey/AI-Pioneers-in-Investment-Management.ashx)
