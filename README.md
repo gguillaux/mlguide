@@ -251,6 +251,8 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*(2020) Unsupervised Translation of Programming Languages*](https://arxiv.org/pdf/2006.03511.pdf)
 
 ### Finance
+* [*(2012) Optimal Execution and Block Trade Pricing: a general framework*](https://arxiv.org/pdf/1210.6372)
+* [*(2015) Volume Weighted Average Price Optimal Execution*](https://arxiv.org/pdf/1509.08503)
 * [*(2019) AI Pioneers in Investment Management*](https://www.cfainstitute.org/-/media/documents/survey/AI-Pioneers-in-Investment-Management.ashx)
 * [*(2019) Microstructure in the Machine Age*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3345183)
 
