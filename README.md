@@ -1,9 +1,9 @@
 # **ML Guide**
-I aim with this document to centralize all sorts of references available to learn about machine learning in any language.
+This document centralizes all sorts of references available to learn about machine learning in any language.
 
-The goal is to have a centralized hub for reference for YouTube channels, books, articles, etc.
+The goal is to have hub for reference of YouTube channels, books, articles, etc.
 
-Some of the content, specially related to social media, is focused in the brazilian data science environment but fell free to [reach me](https://gguillaux.github.io/ggx/) out to add references for your location or share any other link or information.
+Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest articles, topics, courses, books, etc...
 
 ---
 ## **Books**
@@ -157,12 +157,18 @@ Some of the content, specially related to social media, is focused in the brazil
 * [*Udacity - AI School*](https://www.udacity.com/school-of-ai)
 
 #### Coursera
+##### Courses
+* [*Stanford - Machine Learning*](https://www.coursera.org/learn/machine-learning)
+* [*USP - Introdução à Ciência da Computação com Python Parte 1*](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)
+* [*USP - Introdução à Ciência da Computação com Python Parte 2*](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2)
+
+##### Specializations
+* [*HSE - Advanced Machine Learning Specialization*](https://www.coursera.org/specializations/aml)
 * [*Deep Learning Specialization*](https://www.coursera.org/specializations/deep-learning)
 * [*IBM - Machine Learning with Python*](https://www.coursera.org/learn/machine-learning-with-python)
 * [*Machine Learning for Trading Specialization*](https://www.coursera.org/specializations/machine-learning-trading)
 * [*Machine Learning with TensorFlow on Google Cloud Platform Specialization*](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
 * [*Mathematics for Machine Learning Specialization*](https://www.coursera.org/specializations/mathematics-machine-learning)
-* [*Stanford - Machine Learning*](https://www.coursera.org/learn/machine-learning)
 
 #### edX
 * [*Harvard - Data Science: Machine Learning*](https://www.edx.org/course/data-science-machine-learning)
