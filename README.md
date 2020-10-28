@@ -159,7 +159,6 @@ Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest article
 #### Coursera
 ##### Courses
 * [*Stanford - Machine Learning*](https://www.coursera.org/learn/machine-learning)
-* [*UAB - Big Data – Introducción al uso práctico de datos masivos*](https://www.coursera.org/specializations/big-data-introduccion)
 * [*FIA - Introdução ao Big Data*](https://www.coursera.org/learn/introducao-big-data)
 * [*USP - Introdução à Ciência da Computação com Python Parte 1*](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)
 * [*USP - Introdução à Ciência da Computação com Python Parte 2*](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2)
@@ -171,6 +170,8 @@ Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest article
 * [*Machine Learning for Trading Specialization*](https://www.coursera.org/specializations/machine-learning-trading)
 * [*Machine Learning with TensorFlow on Google Cloud Platform Specialization*](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
 * [*Mathematics for Machine Learning Specialization*](https://www.coursera.org/specializations/mathematics-machine-learning)
+* [*UAB - Big Data – Introducción al uso práctico de datos masivos*](https://www.coursera.org/specializations/big-data-introduccion)
+
 
 #### edX
 * [*Harvard - Data Science: Machine Learning*](https://www.edx.org/course/data-science-machine-learning)
