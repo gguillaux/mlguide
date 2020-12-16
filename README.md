@@ -129,7 +129,7 @@ Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest article
 
 ### Swift
 * *Machine Learning with Swift*
-    [packt](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-swift)
+    * [packt](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-swift)
 
 
 ### Statistics
@@ -395,7 +395,7 @@ Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest article
 * [*Escola Livre de Inteligência Artificial*](https://www.youtube.com/channel/UCLsS3dxDbu5uWcCJQxNdt9Q)
 * [*Estatidados*](https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw)
 * [*Lex Fridman*](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
-* [O'Reilly](https://www.youtube.com/oreillymedia)
+* [*O'Reilly*](https://www.youtube.com/oreillymedia)
 * [*PyData*](https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w)
 * [*PyData - São Paulo*](https://www.youtube.com/channel/UCejuzULiRcqml_DOnY2IFfA)
 * [*Thalesians*](https://www.youtube.com/channel/UCre96Z3bjUBrZWppHIliRVw/videos)
@@ -403,8 +403,16 @@ Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest article
 * [*Tristan Behrens*](https://www.youtube.com/channel/UCcMEBxcDM034JyJ8J3cggRg)
 * [*Tübingen Machine Learning*](https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhEbA)
 
+## **Cloud Free Features**
+* [*Alibaba Cloud Free Trial*](https://www.alibabacloud.com/campaign/free-trial)
+* [*AWS Free Tier*](https://aws.amazon.com/free/)
+* [*Azure Free Tier*](https://azure.microsoft.com/en-us/free/)
+* [*GCP Free Tier*](https://cloud.google.com/free#free-tier-products)
+* [*IBM Cloud Free Tier*](https://www.ibm.com/cloud/free)
+* [*Oracle Free Tier*](https://www.oracle.com/cloud/free/#always-free)
 
-## **Tools**
+
+## **AI Tools**
 * [*AWS SageMaker*](https://aws.amazon.com/en/sagemaker/) &nbsp;|&nbsp; [*AWS DeepComposer*](https://aws.amazon.com/deepcomposer/) &nbsp;|&nbsp; [*AWS Rekognition*](https://aws.amazon.com/rekognition/) &nbsp;|&nbsp; [*Amazon Lex*](https://aws.amazon.com/lex/)
 * [*Azure ML Studio*](https://studio.azureml.net/) &nbsp;|&nbsp; [*Azure Notebooks*](https://notebooks.azure.com/)
 * [*Google Colab*](colab.research.google.com/)
