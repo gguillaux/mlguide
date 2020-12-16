@@ -390,6 +390,7 @@ Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest article
 ### **YouTube**
 * [*3Blue1Brown*](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * [*Amazon - Machine Learning University*](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw)
+* [*AIEngineering*](https://www.youtube.com/c/AIEngineeringLife)
 * [*Artificial Intelligence Podcast*](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
 * [*Diogo Cortiz*](https://www.youtube.com/channel/UC5MXrSUoLW0JRd2j7q1ef7Q)
 * [*Escola Livre de Inteligência Artificial*](https://www.youtube.com/channel/UCLsS3dxDbu5uWcCJQxNdt9Q)
