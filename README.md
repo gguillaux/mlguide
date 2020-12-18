@@ -177,10 +177,11 @@ Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest article
 * [*Harvard - Data Science: Machine Learning*](https://www.edx.org/course/data-science-machine-learning)
 
 
-### Masters
+### Masters / PhD
 * [*FIAP - MBA em Inteligência Artificial e Machine Learning (portuguese)*](https://www.fiap.com.br/mba/mba-em-artificial-intelligence-e-machine-learning/)
-* [*Worldquant -MSc in Financial Engineering*](https://wqu.org/programs/mscfe)
+* [*Worldquant - MSc in Financial Engineering*](https://wqu.org/programs/mscfe)
 * [*University of Texas at Austin - Master in Data Science*](https://www.edx.org/masters/online-master-data-science-utaustinx)
+* [*Oxford - DPhil in Social Data Science*](https://www.oii.ox.ac.uk/study/dphil-in-social-data-science/?supervisors)
 
 ---
 
@@ -317,6 +318,7 @@ Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest article
 
 
 ### Projects
+* [*A-to-Z of AI*](https://atozofai.withgoogle.com/intl/en-US/)
 * [*Facebook AI*](https://ai.facebook.com/)
 * [*Google AI*](https://ai.google/)
 * [*IBM Artificial Intelligence*](https://www.research.ibm.com/artificial-intelligence/)
@@ -326,13 +328,16 @@ Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest article
 * [*NumFocus*](https://numfocus.org/)
 * [*Open AI*](https://openai.com/)
 * [*Ostagram*](https://www.ostagram.me/about?locale=en) &nbsp;|&nbsp; [github](https://github.com/SergeyMorugin/ostagram)
-* [*Oxford - Future of Humanity Institute*](https://www.fhi.ox.ac.uk/)
 * [*Quansight*](https://www.quansight.com/)
 * [*Quanta Magazine - Artificial Intelligence*](https://www.quantamagazine.org/tag/artificial-intelligence/)
 * [*Thalesians*](https://thalesians.com/)
 * [*ThoughtWorks - Technology Radar*](https://www.thoughtworks.com/radar)
 * [*Bloomberg AI*](https://www.techatbloomberg.com/ai/)
 * [*Insper - Finance Hub*](https://www.financehub.community/)
+
+### Institutes
+* [*Oxford - Future of Humanity Institute*](https://www.fhi.ox.ac.uk/)
+* [*Oxford - Internet Institute*](https://www.oii.ox.ac.uk/)
 
 ### PPTs
 * [*(2017) Machine Learning in mathematical Finance*](https://ethz.ch/content/dam/ethz/special-interest/math/imsf-dam/documents/ETH%20Practitioner%20Seminar%20in%20Financial%20and%20Insurance%20Mathematics/talk_eth_Teichmann_151217.pdf)
