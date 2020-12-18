@@ -177,8 +177,9 @@ Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest article
 * [*Harvard - Data Science: Machine Learning*](https://www.edx.org/course/data-science-machine-learning)
 
 
-### Masters / PhD
+### MBA / Masters / PhD
 * [*FIAP - MBA em Inteligência Artificial e Machine Learning (portuguese)*](https://www.fiap.com.br/mba/mba-em-artificial-intelligence-e-machine-learning/)
+* [*USP São Carlos - MBA em Ciência de Dados*](http://cemeai.icmc.usp.br/MBA/)
 * [*Worldquant - MSc in Financial Engineering*](https://wqu.org/programs/mscfe)
 * [*University of Texas at Austin - Master in Data Science*](https://www.edx.org/masters/online-master-data-science-utaustinx)
 * [*Oxford - DPhil in Social Data Science*](https://www.oii.ox.ac.uk/study/dphil-in-social-data-science/?supervisors)
