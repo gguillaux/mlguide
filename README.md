@@ -155,6 +155,7 @@ Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest article
 * [*Pluralsight - ML*](https://www.pluralsight.com/browse/machine-learning)
 * [*Stanford Online - AI & DS*](https://online.stanford.edu/search-catalog?topics%5B1054%5D=1054&topics%5B1062%5D=1062&keywords=)
 * [*Udacity - AI School*](https://www.udacity.com/school-of-ai)
+* [*UNIVESP - Inteligência Artificial - Introdução*](https://www.youtube.com/watch?v=lFIIpCbb6Do&list=PLxI8Can9yAHfY4b6dAzpH5_Z-gz4wM-Jq)
 
 #### Coursera
 ##### Courses
