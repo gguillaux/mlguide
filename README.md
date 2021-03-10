@@ -6,7 +6,7 @@ The goal is to have hub for reference of YouTube channels, books, articles, etc.
 Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest articles, topics, courses, books, etc...
 
 ---
-## **Books**
+## **Books** :book:
 ### AI & DS
 * *Artificial Intelligence: A Modern Approach*
     * [amazon](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997/)
