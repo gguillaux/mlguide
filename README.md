@@ -84,14 +84,14 @@ Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest article
     * [amazon](https://www.amazon.com/Python-Finance-Mastering-Data-Driven-ebook/dp/B07L8NMW2P/)
 
 
-### Java
+### Java :coffee:
 * *Mastering Java Machine Learning*
     * [packt](https://www.packtpub.com/big-data-and-business-intelligence/mastering-java-machine-learning)
 * *Machine Learning in Java*
     * [packt](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-java-second-edition)
 
 
-### Python
+### Python :snake:
 * *Building Machine Learning Powered Applications: Going from Idea to Product*
     * [amazon](https://www.amazon.com/Building-Machine-Learning-Powered-Applications-dp-149204511X/dp/149204511X/)
 * *Data Science from Scratch: First Principles with Python*
