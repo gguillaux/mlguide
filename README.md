@@ -368,6 +368,7 @@ Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest article
 * [*Applied ML*](https://github.com/eugeneyan/applied-ml)
 * [*Awesome MLOps*](https://github.com/visenger/awesome-mlops)
 * [*AWS - Machine Learning University Accelerated Natural Language Processing Class*](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp)
+* [*Chris Albon - Machine Learning Tutorials*](https://chrisalbon.com/)
 * [*Machine Learning and Data Science Applications in Industry*](https://github.com/firmai/industry-machine-learning)
 * [*Finance Hub*](https://github.com/Finance-Hub)
 * [*The NLP Pandect*](https://github.com/ivan-bilan/The-NLP-Pandect)
