@@ -118,7 +118,7 @@ Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest article
     * [amazon](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython-ebook/dp/B075X4LT6K/)
 
 
-### R
+### R :bird:
  *  *An Introduction to Statistical Learning with Applications in R*
     * [amazon](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/ref=sr_1_1?dchild=1&keywords=statistical+learning+r&qid=1590155861&sr=8-1) &nbsp;|&nbsp; [page](http://faculty.marshall.usc.edu/gareth-james/ISL/) &nbsp;|&nbsp; [pdf](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) &nbsp;|&nbsp; [videos](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
 * *Deep Learning with R*
