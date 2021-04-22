@@ -145,6 +145,7 @@ Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest article
 ## **Courses**
 ### Online
 * [*Alura - ML*](https://www.alura.com.br/formacao-machine-learning) &nbsp;|&nbsp; [*Alura - DS*](https://www.alura.com.br/cursos-online-data-science/machine-learning)
+* [*AlgoExpert*](http://algoexpert.io/)
 * [*AWS - ML Trainings*](https://www.aws.training/LearningLibrary?filters=language%3A1&filters=classification%3A58&filters=classification%3A30&search=&tab=view_all)
 * [*DataCamp*](https://www.datacamp.com/)
 * [*Elements of AI*](https://www.elementsofai.com/)
@@ -156,7 +157,7 @@ Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest article
 * [*Stanford Online - AI & DS*](https://online.stanford.edu/search-catalog?topics%5B1054%5D=1054&topics%5B1062%5D=1062&keywords=)
 * [*Udacity - AI School*](https://www.udacity.com/school-of-ai)
 * [*UNIVESP - Inteligência Artificial - Introdução*](https://www.youtube.com/watch?v=lFIIpCbb6Do&list=PLxI8Can9yAHfY4b6dAzpH5_Z-gz4wM-Jq)
-* [*University of Helsinki*](https://www.mooc.fi/en)
+* [*University of Helsinki - MOOCs*](https://www.mooc.fi/en)
 
 #### Coursera
 ##### Courses
@@ -344,6 +345,9 @@ Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest article
 
 ### PPTs
 * [*(2017) Machine Learning in mathematical Finance*](https://ethz.ch/content/dam/ethz/special-interest/math/imsf-dam/documents/ETH%20Practitioner%20Seminar%20in%20Financial%20and%20Insurance%20Mathematics/talk_eth_Teichmann_151217.pdf)
+
+### Tutorials
+* [*CalmCode*](https://calmcode.io/)
 
 ### Others
 * [*ACM Software System Award*](https://awards.acm.org/software-system/award-winners)
