@@ -380,6 +380,8 @@ Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest article
 
 ### **Meetup**
 * [*AI Brasil*](https://www.meetup.com/pt-BR/ai-brasil/)
+* [*Abu Dhabi Machine Learning*](http://www.adml.ai/)
+* [*Hong Kong Machine Learning*](http://www.hkml.ai/)
 * [*Nubank - Data Science & Machine Learning*](https://www.meetup.com/pt-BR/machine-learning-big-data-engenharia/)
 * [*TensorFlow São Paulo*](https://www.meetup.com/pt-BR/TensorFlowSP/)
 * [*Thalesians*](https://www.meetup.com/thalesians/)
