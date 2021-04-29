@@ -142,7 +142,7 @@ Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest article
 
 ---
 
-## **Courses**
+## **Courses** :school:
 ### Online
 * [*Alura - ML*](https://www.alura.com.br/formacao-machine-learning) &nbsp;|&nbsp; [*Alura - DS*](https://www.alura.com.br/cursos-online-data-science/machine-learning)
 * [*AlgoExpert*](http://algoexpert.io/)
@@ -170,6 +170,7 @@ Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest article
 * [*HSE - Advanced Machine Learning Specialization*](https://www.coursera.org/specializations/aml)
 * [*Deep Learning Specialization*](https://www.coursera.org/specializations/deep-learning)
 * [*IBM - Machine Learning with Python*](https://www.coursera.org/learn/machine-learning-with-python)
+* [*FourthBrain - ML Ops / ML Engineer*](https://www.fourthbrain.ai/)
 * [*Machine Learning for Trading Specialization*](https://www.coursera.org/specializations/machine-learning-trading)
 * [*Machine Learning with TensorFlow on Google Cloud Platform Specialization*](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
 * [*Mathematics for Machine Learning Specialization*](https://www.coursera.org/specializations/mathematics-machine-learning)
@@ -189,7 +190,7 @@ Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest article
 
 ---
 
-## **Certifications**
+## **Certifications** 
 * Amazon
     * [*AWS Certified Machine Learning – Specialty*](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
 
@@ -260,7 +261,7 @@ Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest article
 
 ---
 
-## **Papers**
+## **Papers** :page_with_curl:
 ### Data Science
 * [*(1995) Random Decision Forests*](https://web.archive.org/web/20160417030218/http://ect.bell-labs.com/who/tkh/publications/papers/odt.pdf)
 * [*(2009) The Unreasonable Effectiveness of Data*](http://static.googleusercontent.com/media/research.google.com/fr//pubs/archive/35179.pdf)
@@ -353,7 +354,7 @@ Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest article
 * [*ACM Software System Award*](https://awards.acm.org/software-system/award-winners)
 
 ---
-## **Social Media**
+## **Social Media** 
 ### **Blogs**
 * [*Algorithmia*](https://algorithmia.com/blog)
 * [*AWS Blog*](https://aws.amazon.com/blogs/aws/)
