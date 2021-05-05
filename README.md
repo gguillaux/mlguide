@@ -82,6 +82,8 @@ Feel free to [reach me out](https://gguillaux.github.io/ggx/) to suggest article
     * [amazon](https://www.amazon.com/Machine-Learning-Finance-Theory-Practice/dp/3030410676/)
 * *Python for Finance: Mastering Data-Driven Finance*
     * [amazon](https://www.amazon.com/Python-Finance-Mastering-Data-Driven-ebook/dp/B07L8NMW2P/)
+* *Quantitative Risk Management*
+    * [amazon](https://www.amazon.com.br/Quantitative-Risk-Management-Techniques-Princeton-ebook/dp/B00VVV48V4/) | [page](https://qrmtutorial.org/)
 
 
 ### Java :coffee:
